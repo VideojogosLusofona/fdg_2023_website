@@ -3,6 +3,20 @@ plugins: []
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: lime
+    scheme: default
+    primary: pink
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 copyright: "Copyright &copy; 2022-2023 Universidade Lusófona de Humanidades e Tecnologias. All rights reserved."
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCcZ6WEOxANNqMoUCIGgB_xQ
+      name: FDG on YouTube
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/FDGconf
+      name: FDG on Twitter
