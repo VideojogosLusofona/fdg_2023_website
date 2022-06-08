@@ -1,0 +1,8 @@
+site_name: FDG 2023
+plugins: []
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: lime
+copyright: "Copyright &copy; 2022-2023 Universidade Lusófona de Humanidades e Tecnologias. All rights reserved."
