@@ -1,0 +1,28 @@
+on:
+  push:
+    branches: [main]
+
+name: 🚀 Deploy website on push
+
+jobs:
+  web-deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2
+
+    - name: Build site
+      run: |
+        pip3 install --user --upgrade pip
+        pip3 install --user mkdocs-material
+        mkdocs build
+
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server:  ${{ sync.HOST }}
+        username: ${{ sync.USER }}
+        password: ${{ sync.PASSWORD }}
+        protocol: ftps
+        local-dir: site/
