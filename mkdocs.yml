@@ -1,10 +1,13 @@
-site_name: FDG 2023
+site_name: FDG 2023 &#8211; Lisbon, Portugal
 
 theme:
   name: material
+  logo: assets/img/logo.png
+  favicon: assets/img/logo.png
   palette:
     scheme: default
-    primary: pink
+    primary: deep orange
+    accent: lime
   features:
   - navigation.instant
   - navigation.expand

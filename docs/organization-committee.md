@@ -42,7 +42,7 @@
 
 ## Workshop & Panels Chair
 
-- TBA
+- David Melhart, University of Malta
 
 ## Doctoral Consortium Chair
 

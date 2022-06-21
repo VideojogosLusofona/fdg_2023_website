@@ -50,7 +50,7 @@ Friendly debate-style panels are welcome at FDG2023. Panels for bringing attenti
 
 ## Competitions
 
-Competitions provide a venue for the submission of community-driven solutions capable of solving game related complex problems. FDG welcomes competition proposals, with a maximum length of 2 pages (excluding references) in the ACM SIGCONF version of the [​ACM Master Template]. Contents of the proposal should include a description of the competition and the organizers, the criteria for winners, anticipated number of participants, past number of participants (if the competition was held in the past), and how entries to the competition will be submitted.
+Competitions provide a venue for the submission of community-driven solutions capable of solving game related complex problems. FDG welcomes competition proposals, with a maximum length of 2 pages (excluding references) in the ACM SIGCONF version of the [ACM Master Template]. Contents of the proposal should include a description of the competition and the organizers, the criteria for winners, anticipated number of participants, past number of participants (if the competition was held in the past), and how entries to the competition will be submitted.
 
 
 !!! note
