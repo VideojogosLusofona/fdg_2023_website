@@ -1,12 +1,39 @@
 site_name: FDG 2023
-plugins: []
+
 theme:
   name: material
   palette:
     scheme: default
     primary: pink
+  features:
+  - navigation.instant
+  - navigation.expand
+  - navigation.indexes
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.top
+  - toc.integrate
+
+nav:
+- Home:
+  - index.md
+  - Code of Conduct: home/conduct.md
+- Tracks: tracks.md
+- Author information: author-information.md
+- Venue: venue.md
+- Organization committee: organization-committee.md
+
+plugins:
+- search
+
 markdown_extensions:
   - attr_list
+  - md_in_html
+  - meta
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
