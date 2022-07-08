@@ -63,11 +63,6 @@ The games and demo exhibition provides a forum for demonstrations of work best s
 
 Submissions should include a 4-page extended abstract using the ACM SIGCONF version of the [ACM Master Template], an unedited video illustrating the game or technology, and (if possible) a link to the demo. Games and tech demos will be presented at a dedicated games and tech demo session open to the public.
 
-
-!!! note
-
-    Games and Demos abstracts will not be included in the proceedings
-
 ## Doctoral Consortium
 
 A Doctoral Consortium will be held at FDG 2023. This will allow PhD students to discuss their research with fellow students and obtain valuable feedback from the community, including researchers who are respected members in their fields. The consortium is primarily for PhD students who intend to pursue a career in academia and who will soon submit or have recently submitted their research proposal.
@@ -75,10 +70,5 @@ A Doctoral Consortium will be held at FDG 2023. This will allow PhD students to 
 To apply, students must submit a non-anonymized 2-4 page paper (page-count not including  references) describing their proposed research in the ACM SIGCONF version of the ​[ACM Master Template]. The paper should address the goals of their research, the proposed approach, any results, and plans for completing the work. This should be accompanied by their CV and a short letter explaining how they would benefit from the consortium and what questions they want to discuss (general and/or specific to their research). The submission should combine all the above in a single PDF file.
 
 Accepted Doctoral Consortium students will give a presentation and are invited to present a poster on their abstracts during the conference.
-
-
-!!! note
-
-    Doctoral consortium papers will not be published in the proceedings.
 
 [ACM Master Template]:https://www.acm.org/publications/taps/word-template-workflow
