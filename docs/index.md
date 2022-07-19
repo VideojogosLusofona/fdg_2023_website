@@ -6,7 +6,7 @@ The 18th Foundations of Digital Games (FDG) held in Lisbon, Portugal, invites al
 
 We invite contributions from within and across any discipline committed to advancing knowledge on the foundations of games: **computer science**, **engineering**, **mathematics**, **natural sciences**, **humanities**, **social sciences**, **arts**, and **design**.  ​FDG invites authors to submit short or full papers reporting new research. Both short and full papers need to be anonymized and submitted in the ACM SIGCONF version of the [ACM Master Template] to a paper track. All contributions should be submitted to EasyChair.
 
-FDG 2020 is held in cooperation with [ACM] and [ACM SIG AI], [SIGGRAPH] and [SIGCHI].
+FDG 2023 is held in cooperation with [ACM] and [ACM SIG AI], [SIGGRAPH] and [SIGCHI].
 
 [![ACM In-Cooperation](assets/img/logo_acm_in_coop.png)][ACM]
 [![ACM SIGAI](assets/img/logo_acm_sigai.png)][ACM SIG AI]
