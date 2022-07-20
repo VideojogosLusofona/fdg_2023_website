@@ -8,10 +8,9 @@ We invite contributions from within and across any discipline committed to advan
 
 FDG 2023 is held in cooperation with [ACM] and [ACM SIG AI], [SIGGRAPH] and [SIGCHI].
 
-[![ACM In-Cooperation](assets/img/logo_acm_in_coop.png)][ACM]
-[![ACM SIGAI](assets/img/logo_acm_sigai.png)][ACM SIG AI]
-[![ACM SIGGRAPH](assets/img/logo_acm_siggraph.png)][SIGGRAPH]
-[![ACM SIGCHI](assets/img/logo_acm_sigchi.png)][SIGCHI]
+<figure markdown>
+  ![ACM](assets/img/logos_acm.png)
+</figure>
 
 ## Statement of Values
 
