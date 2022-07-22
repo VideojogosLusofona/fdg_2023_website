@@ -1,10 +1,15 @@
 header {
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 1) 100%), url("headerbg.png");
-    height: 106px;
+    background-repeat: repeat-x;
+    height: 146px;
 }
 
 .md-tabs {
     margin-top: -3px;
+    background-color: black;
+}
+
+.md-header {
     background-color: black;
 }
 
@@ -16,3 +21,8 @@ header {
 {
     margin-left: 12px;
 }
+
+.md-nav--primary .md-nav__title[for=__drawer] {
+    background-color: black;
+}
+
