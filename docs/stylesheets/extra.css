@@ -1,0 +1,18 @@
+header {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 80%, rgba(0, 0, 0, 1) 100%), url("headerbg.png");
+    height: 106px;
+}
+
+.md-tabs {
+    margin-top: -3px;
+    background-color: black;
+}
+
+.md-header__title {
+    margin-bottom: -90px;
+}
+
+.fdg-header-logo
+{
+    margin-left: 12px;
+}
