@@ -30,6 +30,7 @@ nav:
 - Author information: author-information.md
 - Venue: venue.md
 - Organization committee: organization-committee.md
+- Contacts: contacts.md
 
 plugins:
 - search
@@ -49,6 +50,9 @@ copyright: "Copyright &copy; 2022-2023 Universidade Lusófona de Humanidades e T
 extra:
   generator: false
   social:
+    - icon: fontawesome/solid/envelope
+      link: "mailto:fdg2023@easychair.com"
+      name: Contact us!
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCcZ6WEOxANNqMoUCIGgB_xQ
       name: FDG on YouTube
