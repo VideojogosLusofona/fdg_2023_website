@@ -23,9 +23,9 @@
 | Game Analytics and Visualization | Simone Kriglstein | Masaryk University & AIT Austrian Institute of Technology |
 | Game Artificial Intelligence | Raluca Gaina | Queen Mary University of London |
 | Game Criticism and Analysis | Katta Spiel |TU Wien – Vienna University of Technology |
-| Games Beyond Entertainment | TBA | TBA |
+| Games Beyond Entertainment | Rafael Bidarra | TU Delft – Delft University of Technology |
 
-## Keynote Chair:
+## Keynote Chair
 
 - Mike Cook, Queen Mary University of London
 
