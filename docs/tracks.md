@@ -32,7 +32,7 @@ This track is dedicated to game inclusion, game accessibility, and game developm
 
 FDG 2023 provides venues to host a series of full-day or half-day workshop sessions, focused on current and emerging game-related topics. Workshops are an opportunity to discuss, present, and demonstrate new technological developments, emerging technologies, specific research topics and game-related topics. We especially encourage workshops and topics that involve participants from a range of disciplinary backgrounds, towards strengthening interdisciplinarity in games research.
 
-Workshop proposals should be concise (2-4 pages, excluding references, in the ACM SIGCONF version of the [ACM Master Template]​) and include: a background section explaining and motivating the workshop, the objectives of the workshop, planned activities, the background of the organizer(s), publication plans (if any), anticipated number of participants, and the means for soliciting and selecting participants.
+Workshop proposals should be concise (2-4 pages, excluding references, in the ACM SIGCONF version of the [ACM Primary Template]​) and include: a background section explaining and motivating the workshop, the objectives of the workshop, planned activities, the background of the organizer(s), publication plans (if any), anticipated number of participants, and the means for soliciting and selecting participants.
 
 
 !!! note
@@ -41,7 +41,7 @@ Workshop proposals should be concise (2-4 pages, excluding references, in the AC
 
 ## Panel Proposals
 
-Friendly debate-style panels are welcome at FDG2023. Panels for bringing attention to emerging areas and topics and encouraging their development are valued.  Interested researchers should consider finding panel-members interested in the discussion of the proposed topics before submitting their proposals. It is also important to consider diversity and speaker representation during the participant recruitment process. The maximum length for panel proposals is 2 pages (excluding references) in the ACM SIGCONF version of the ​[ACM Master Template]. Proposal contents should include the panel’s topic, participants, how the panel is organized, and a citation-supported statement of why the event is relevant and topical (which accounts for the theme of FGD 2023 of "New Beginnings").
+Friendly debate-style panels are welcome at FDG2023. Panels for bringing attention to emerging areas and topics and encouraging their development are valued.  Interested researchers should consider finding panel-members interested in the discussion of the proposed topics before submitting their proposals. It is also important to consider diversity and speaker representation during the participant recruitment process. The maximum length for panel proposals is 2 pages (excluding references) in the ACM SIGCONF version of the ​[ACM Primary Template]. Proposal contents should include the panel’s topic, participants, how the panel is organized, and a citation-supported statement of why the event is relevant and topical (which accounts for the theme of FGD 2023 of "New Beginnings").
 
 !!! note
 
@@ -50,7 +50,7 @@ Friendly debate-style panels are welcome at FDG2023. Panels for bringing attenti
 
 ## Competitions
 
-Competitions provide a venue for the submission of community-driven solutions capable of solving game related complex problems. FDG welcomes competition proposals, with a maximum length of 2 pages (excluding references) in the ACM SIGCONF version of the [ACM Master Template]. Contents of the proposal should include a description of the competition and the organizers, the criteria for winners, anticipated number of participants, past number of participants (if the competition was held in the past), and how entries to the competition will be submitted.
+Competitions provide a venue for the submission of community-driven solutions capable of solving game related complex problems. FDG welcomes competition proposals, with a maximum length of 2 pages (excluding references) in the ACM SIGCONF version of the [ACM Primary Template]. Contents of the proposal should include a description of the competition and the organizers, the criteria for winners, anticipated number of participants, past number of participants (if the competition was held in the past), and how entries to the competition will be submitted.
 
 
 !!! note
@@ -61,14 +61,14 @@ Competitions provide a venue for the submission of community-driven solutions ca
 
 The games and demo exhibition provides a forum for demonstrations of work best suited to interaction rather than a paper or formal presentation. This track encourages submissions of games in various stages of development, from playable physical mock-ups to full-fledged implementations, as well as technical demos showcasing the latest tools, techniques, and systems created for games by academic or industrial research groups, or other early-stage or late-breaking research not yet ready for formal presentation.
 
-Submissions should include a 4-page extended abstract using the ACM SIGCONF version of the [ACM Master Template], an unedited video illustrating the game or technology, and (if possible) a link to the demo. Games and tech demos will be presented at a dedicated games and tech demo session open to the public.
+Submissions should include a 4-page extended abstract using the ACM SIGCONF version of the [ACM Primary Template], an unedited video illustrating the game or technology, and (if possible) a link to the demo. Games and tech demos will be presented at a dedicated games and tech demo session open to the public.
 
 ## Doctoral Consortium
 
 A Doctoral Consortium will be held at FDG 2023. This will allow PhD students to discuss their research with fellow students and obtain valuable feedback from the community, including researchers who are respected members in their fields. The consortium is primarily for PhD students who intend to pursue a career in academia and who will soon submit or have recently submitted their research proposal.
 
-To apply, students must submit a non-anonymized 2-4 page paper (page-count not including  references) describing their proposed research in the ACM SIGCONF version of the ​[ACM Master Template]. The paper should address the goals of their research, the proposed approach, any results, and plans for completing the work. This should be accompanied by their CV and a short letter explaining how they would benefit from the consortium and what questions they want to discuss (general and/or specific to their research). The submission should combine all the above in a single PDF file.
+To apply, students must submit a non-anonymized 2-4 page paper (page-count not including  references) describing their proposed research in the ACM SIGCONF version of the ​[ACM Primary Template]. The paper should address the goals of their research, the proposed approach, any results, and plans for completing the work. This should be accompanied by their CV and a short letter explaining how they would benefit from the consortium and what questions they want to discuss (general and/or specific to their research). The submission should combine all the above in a single PDF file.
 
 Accepted Doctoral Consortium students will give a presentation and are invited to present a poster on their abstracts during the conference.
 
-[ACM Master Template]:https://www.acm.org/publications/taps/word-template-workflow
+[ACM Primary Template]:https://www.acm.org/publications/proceedings-template

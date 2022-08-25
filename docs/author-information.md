@@ -8,7 +8,7 @@ FDG 2023 openly invites the community for the proposal of Workshops, Discussion 
 
 ## Submission Guidelines
 
-Papers should have a maximum of 10 pages, excluding references, reporting new research. Papers need to be anonymized and submitted in the ACM SIGCONF version of the [ACM Master Template] within their respective track using EasyChair.
+Papers should have a maximum of 10 pages, excluding references, reporting new research. Papers need to be anonymized and submitted in the ACM SIGCONF version of the [ACM Primary Template] within their respective track using EasyChair.
 
 Accepted papers will be included in the proceedings under the respective track submitted. When submitting, authors are requested to select the track that fits more closely to their submitted work.
 
@@ -28,4 +28,4 @@ Accepted papers will be included in the proceedings under the respective track s
 - Workshops: 11 April 2023
 - Conference Dates: 12-14 April 2023
 
-[ACM Master Template]:https://www.acm.org/publications/taps/word-template-workflow
+[ACM Primary Template]:https://www.acm.org/publications/proceedings-template

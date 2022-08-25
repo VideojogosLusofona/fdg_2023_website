@@ -20,7 +20,7 @@ Topics include:
 
 Papers should have a maximum of 10 pages, excluding references, reporting new
 research. Papers need to be anonymized and submitted in the ACM SIGCONF version
-of the [ACM Master Template] within their respective track using EasyChair. FDG
+of the [ACM Primary Template] within their respective track using EasyChair. FDG
 2023 is held in cooperation with [ACM] and [ACM SIG AI], [SIGGRAPH] and
 [SIGCHI].
 
@@ -48,7 +48,7 @@ collegiality and professionalism, and inclusivity towards scholars of all
 backgrounds. This conference follows the ethos defined by our
 [code of conduct](home/conduct.md).
 
-[ACM Master Template]:https://www.acm.org/publications/taps/word-template-workflow
+[ACM Primary Template]:https://www.acm.org/publications/proceedings-template
 [ACM]:https://www.acm.org/
 [ACM SIG AI]:https://sigai.acm.org/
 [SIGGRAPH]:https://www.siggraph.org/
