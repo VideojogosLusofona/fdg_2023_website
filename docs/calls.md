@@ -20,9 +20,11 @@ Topics include:
 
 Papers should have a maximum of 10 pages, excluding references, reporting new
 research. Papers need to be anonymized and submitted in the ACM SIGCONF version
-of the [ACM Primary Template] within their respective track using EasyChair. FDG
-2023 is held in cooperation with [ACM] and [ACM SIG AI], [SIGGRAPH] and
-[SIGCHI].
+of the [ACM Primary Template] within their respective track using [EasyChair].
+FDG 2023 is held in cooperation with [ACM] and [ACM SIG AI], [SIGGRAPH] and
+[SIGCHI]. Accepted papers will be published through the ACM International
+Conference Proceedings Series (ICPS), unless stated otherwise (see
+[track](tracks.md) information).
 
 Accepted papers will be included in the proceedings under the respective track
 submitted. When submitting, authors are requested to select the track that fits
@@ -34,11 +36,11 @@ and Demos are guaranteed two reviews. There will be no rebuttal.
 
 ## Submission Deadlines
 
-* Submission Deadline: 4th November 2022
-* Workshops, Panels and Competition Deadlines: 21st October 2022
-* Late-Breaking Paper: 27th of January 2023
-* Games & Demos Deadline: 27th of January 2023
-* Conference Dates: 11th-14th of April 2023
+* **Submission Deadline:** 4 November 2022
+* **Workshops, Panels and Competition Deadlines:** 21 October 2022
+* **Late-Breaking Paper:** 27 January 2023
+* **Games & Demos Deadline:** 27 January 2023
+* **Conference Dates:** 11-14 April 2023
 
 ## Statement of Values
 
@@ -53,3 +55,4 @@ backgrounds. This conference follows the ethos defined by our
 [ACM SIG AI]:https://sigai.acm.org/
 [SIGGRAPH]:https://www.siggraph.org/
 [SIGCHI]:https://sigchi.org/
+[EasyChair]:https://easychair.org/conferences/?conf=fdg2023
