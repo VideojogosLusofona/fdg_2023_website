@@ -20,6 +20,14 @@ Conference Proceedings Series (ICPS), unless stated otherwise (see
   ![ACM](assets/img/logos_acm.png)
 </figure>
 
+FDG 2023 is organized by [Lusófona University] and the [HEI-Lab], [CICANT] and
+[COPELABS] research centers.
+
+<figure markdown>
+  ![Microsoft](assets/img/logos_lusof_labs.png)
+</figure>
+
+
 ## Statement of Values
 
 The organizers, general chairs and program chairs of the Foundation of Digital Games 2023 conference affirm the event's commitment to scholarly integrity, collegiality and professionalism, and inclusivity towards scholars of all backgrounds. This conference follows the ethos defined by our [code of conduct](code-of-conduct.md).
@@ -30,3 +38,7 @@ The organizers, general chairs and program chairs of the Foundation of Digital G
 [SIGGRAPH]:https://www.siggraph.org/
 [SIGCHI]:https://sigchi.org/
 [EasyChair]:https://easychair.org/conferences/?conf=fdg2023
+[Lusófona University]:https://www.ulusofona.pt/
+[HEI-Lab]:https://hei-lab.ulusofona.pt/
+[CICANT]:https://cicant.ulusofona.pt/
+[COPELABS]:http://copelabs.ulusofona.pt/
