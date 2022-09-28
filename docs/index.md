@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Foundations of Digital Games 2023
 
 ## &#11153; 12&#8211;14 April 2023, Lisbon, Portugal &#11152;
@@ -17,7 +22,7 @@ Conference Proceedings Series (ICPS), unless stated otherwise (see
 
 ## Statement of Values
 
-The organizers, general chairs and program chairs of the Foundation of Digital Games 2023 conference affirm the event's commitment to scholarly integrity, collegiality and professionalism, and inclusivity towards scholars of all backgrounds. This conference follows the ethos defined by our [code of conduct](home/conduct.md).
+The organizers, general chairs and program chairs of the Foundation of Digital Games 2023 conference affirm the event's commitment to scholarly integrity, collegiality and professionalism, and inclusivity towards scholars of all backgrounds. This conference follows the ethos defined by our [code of conduct](code-of-conduct.md).
 
 [ACM Primary Template]:https://www.acm.org/publications/proceedings-template
 [ACM]:https://www.acm.org/

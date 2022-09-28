@@ -22,14 +22,13 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-- Home:
-  - index.md
-  - Code of Conduct: home/conduct.md
+- Home: index.md
 - Tracks: tracks.md
 - Calls: calls.md
 - Author information: author-information.md
 - Venue: venue.md
 - Organization committee: organization-committee.md
+- Code of Conduct: code-of-conduct.md
 - Contacts: contacts.md
 
 plugins:
