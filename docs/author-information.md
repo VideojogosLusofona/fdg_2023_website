@@ -28,5 +28,66 @@ Accepted papers will be included in the proceedings under the respective track s
 - **Workshops:** 11 April 2023
 - **Conference Dates:** 12-14 April 2023
 
+## Student Travel Grants
+
+The conference is committing funds to help support the attendance of the
+conference for 2023. The Travel Assistance Program has historically been
+targeted in bringing students as well as some faculty members to FDG, who lack
+strong travel funding support from their institutions. Around $15k (USD) are
+being invested to support this initiative.
+
+This support will be crucial in stimulating the community, offer opportunities
+for graduate students willing to network and bring their papers to Lisbon, and
+offer more opportunities for individuals to present their papers.
+
+More information on how to apply for these funds will be published soon.
+
+## Remote Options and Presentations
+
+One of the core objectives of FDG 2023 is bringing back the in-person conference
+model, providing the community with the means to network, discuss and present
+their work directly with other community members.
+
+However, the organization fully understands that not all members can physically
+attend the conference and that traveling may simply be impossible. For this
+reason, the conference will provide solutions for remote authors, with the
+objective of maintaining exposure on their work and providing opportunities to
+interact with the conference itself.
+
+### Asynchronous Model
+
+According to a lot of feedback received over the past hybrid conferences, FDG
+2023 will offer a new approach to this type of conference model. The reasoning
+for this switch is that previous experiences were not great for either online or
+local attendance, due to the large costs required to guarantee a comfortable
+experience for both either.
+
+Thus, for FDG 2023 the remote options will be handle as follows:
+
+- Remote authors will have the opportunity to record their talk which will be
+  live streamed at the event and provided for all remote/live attendants through
+  asynchronous methods (hosted in a repository).
+- All sessions will be live streamed and recorded, guaranteeing quality image
+  and audio for our remote community to attend the local talks. Q&A will still
+  be provided through text-based applications (e.g., Discord).
+- Local and remote attendance will have access to the FDG discord server,
+  providing a way for both communities to communicate and discuss relevant work.
+
+### Why are we doing this?
+
+Opening two-way communication during a live event can significantly increase
+costs, as we want to guarantee that sound quality, image and everyone is
+comfortable during their presentations.
+
+By offering an asynchronous model we provide everyone with the opportunity to
+watch the talks they wish (when they want), while also guaranteeing a session
+where they are presented live at the conference. Furthermore, we also guarantee
+that through a broadcast method even remote attendees can get the most out of
+the conference and have opportunities to interact with live speakers.
+
+Finally, diverging time zones is also a big factor, which can make it impossible
+even for remote attendees to attend talks “live”. Thus, this way attendees can
+experience the conference when is most convenient.
+
 [ACM Primary Template]:https://www.acm.org/publications/proceedings-template
 [EasyChair]:https://easychair.org/conferences/?conf=fdg2023
