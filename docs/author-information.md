@@ -60,13 +60,13 @@ According to a lot of feedback received over the past hybrid conferences, FDG
 2023 will offer a new approach to this type of conference model. The reasoning
 for this switch is that previous experiences were not great for either online or
 local attendance, due to the large costs required to guarantee a comfortable
-experience for both either.
+experience for everyone.
 
-Thus, for FDG 2023 the remote options will be handle as follows:
+Thus, for FDG 2023 the remote options will be handled as follows:
 
 - Remote authors will have the opportunity to record their talk which will be
   live streamed at the event and provided for all remote/live attendants through
-  asynchronous methods (hosted in a repository).
+  asynchronous methods (hosted remotely and easily accessible).
 - All sessions will be live streamed and recorded, guaranteeing quality image
   and audio for our remote community to attend the local talks. Q&A will still
   be provided through text-based applications (e.g., Discord).
