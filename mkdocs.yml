@@ -40,6 +40,10 @@ markdown_extensions:
   - meta
   - tables
   - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
