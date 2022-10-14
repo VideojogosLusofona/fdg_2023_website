@@ -21,7 +21,7 @@ Accepted papers will be included in the proceedings under the respective track s
 
 ### Workshop, Panels and Competition Submission Deadlines
 
-- **Deadline:** {--21 October 2022--} {++25 November 2022++}
+- **Deadline:** {--21 October 2022--} {++4 November 2022++}
 
 ### Workshop and Conference Dates
 

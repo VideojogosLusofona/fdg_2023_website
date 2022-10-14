@@ -36,7 +36,7 @@ and Demos are guaranteed two reviews. There will be no rebuttal.
 
 ## Submission Deadlines
 
-* **Workshops, Panels and Competition Deadlines:** {--21 October 2022--} {++25 November 2022++}
+* **Workshops, Panels and Competition Deadlines:** {--21 October 2022--} {++4 November 2022++}
 * **Paper Submission Deadline:** {--4 November 2022--} {++25 November 2022++}
 * **Late-Breaking Paper Deadline:** 27 January 2023
 * **Games & Demos Deadline:** 27 January 2023
