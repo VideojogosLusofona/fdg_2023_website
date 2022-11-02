@@ -10,10 +10,6 @@
 - Antonios Liapis, University of Malta
 - Henrik Engström, University of Skövde
 
-## Proceedings Chair
-
-- TBA
-
 ## Track Chairs
 
 | Track      | Chair | Affiliation |
@@ -46,8 +42,5 @@
 
 ## Doctoral Consortium Chair
 
-- TBA
-
-## Social Media Chair
-
-- TBA
+- Amy Hoover, New Jersey Institute of Technology
+- Christoph Salge, University of Hertfordshire
