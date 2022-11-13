@@ -15,7 +15,7 @@ Accepted papers will be included in the proceedings under the respective track s
 ### Paper Submission Deadlines
 
 - **Deadline:** {--4 November 2022--} {++25 November 2022++}
-- **Late-Breaking Paper:** 27 January 2023
+- **Late-Breaking Short Papers:** 27 January 2023
 - **Games & Demos Deadline:** 27 January 2023
 - **Doctoral Consortium Deadline:** 27 January 2023
 
