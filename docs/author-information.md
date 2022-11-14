@@ -4,13 +4,21 @@ The Foundations of Digital Games (FDG) 2023 is proud to invite contributions fro
 
 ## Workshop, Panel and Competition Proposals
 
-FDG 2023 openly invites the community for the proposal of Workshops, Discussion Panels and Competitions relevant to the digital game community. For more information please refer to the [Tracks](tracks.md) section of the website.
+FDG 2023 openly invites the community for the proposal of Workshops, Discussion
+Panels and Competitions relevant to the digital game community. For more
+information please refer to the [Tracks](tracks.md) section of the website.
 
 ## Submission Guidelines
 
-Papers should have a maximum of 10 pages, excluding references, reporting new research. Papers need to be anonymized and submitted in the ACM SIGCONF version of the [ACM Primary Template] within their respective track using [EasyChair].
+Papers should have a maximum of 10 pages, excluding references, reporting new
+research. Late-breaking short papers should have a maximum of 4 pages,
+**including** references. Papers need to be anonymized and submitted in the ACM
+SIGCONF version of the [ACM Primary Template] within their respective track
+using [EasyChair].
 
-Accepted papers will be included in the proceedings under the respective track submitted. When submitting, authors are requested to select the track that fits more closely to their submitted work.
+Accepted papers will be included in the proceedings under the respective track
+submitted. When submitting, authors are requested to select the track that fits
+more closely to their submitted work.
 
 ### Paper Submission Deadlines
 
