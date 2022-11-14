@@ -35,8 +35,8 @@ mkdocs serve
 ```
 
 On Windows the `source ./env/bin/activate` command should be replaced with
-`env\Scripts\Activate.ps1` or `env\Scripts\activate.bat` (for CMD of PowerShell
-consoles, respectively).
+`env\Scripts\Activate.ps1` or `env\Scripts\activate.bat` (for PowerShell or
+cmd.exe consoles, respectively).
 
 ## Editing and configuring the website
 
