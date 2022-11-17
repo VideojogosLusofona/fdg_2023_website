@@ -5,7 +5,7 @@ hide:
 
 # Foundations of Digital Games 2023
 
-## &#11153; 12&#8211;14 April 2023, Lisbon, Portugal &#11152;
+## &#11153; 11&#8211;14 April 2023, Lisbon, Portugal &#11152;
 
 The 18th Foundations of Digital Games (FDG) held in Lisbon, Portugal, invites all research contributions in the form of papers, posters, demos, doctoral consortium applications, as well as panels, competitions, and workshop proposals.
 
