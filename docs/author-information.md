@@ -23,6 +23,7 @@ more closely to their submitted work.
 ### Paper Submission Deadlines
 
 - **Deadline:** {--4 November 2022--} {++25 November 2022++}
+- **Notification of Reviews:** 13 January 2023
 - **Late-Breaking Short Papers:** 27 January 2023
 - **Games & Demos Deadline:** 27 January 2023
 - **Doctoral Consortium Deadline:** 27 January 2023

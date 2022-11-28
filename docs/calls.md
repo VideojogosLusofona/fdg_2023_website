@@ -35,10 +35,11 @@ Papers and Demos will receive double-blind peer reviews. All other submissions
 will be single-blind. All papers are guaranteed at least three reviews. Games
 and Demos are guaranteed two reviews. There will be no rebuttal.
 
-## Submission Deadlines
+## Important Dates
 
 * **Workshops, Panels and Competition Deadlines:** {--21 October 2022--} {++4 November 2022++}
 * **Paper Submission Deadline:** {--4 November 2022--} {++25 November 2022++}
+* **Notification of Reviews:** 13 January 2023
 * **Late-Breaking Short Papers Deadline:** 27 January 2023
 * **Games & Demos Deadline:** 27 January 2023
 * **Doctoral Consortium Deadline:** 27 January 2023
