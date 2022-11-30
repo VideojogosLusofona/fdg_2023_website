@@ -22,3 +22,15 @@
     War of Mine and Sunless Sea. Her latest announced title is Thirsty Suitors,
     a fantastical game of battling your exes, disappointing your parents and
     finding yourself, with Outerloop Games.
+
+!!! tip "Holly Nielsen"
+
+    ![Holly Nielsen](assets/img/keynote_holly.jpg){ align=left }
+
+    **Holly Nielsen** is a historian, writer, and narrative designer based in
+    London. She is currently completing her PhD at Royal Holloway, University of
+    London. Her thesis is titled 'British Board Games and the Ludic Imagination,
+    c.1860-1960'. Alongside her academic work Holly does writing and narrative
+    design for video games. Before pivoting to academia and games, Holly was a
+    journalist and arts critic, with bylines including The Guardian, The New
+    Statesman, and Vice, among others.
