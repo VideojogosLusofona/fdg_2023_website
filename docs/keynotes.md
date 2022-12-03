@@ -1,5 +1,18 @@
 # Keynotes
 
+!!! tip "Gabi Michel"
+
+    ![Gabi Michel](assets/img/keynote_gabi.jpg){ align=left }
+
+    **Gabi Michel** is the Director of Accessible Accessories and a hardware
+    development program manager in Microsoft Devices. She has spent the last 9
+    years leading the development of a wide variety of devices from Xbox
+    Controllers to a Surface laptop. Her most prominent products are the Xbox
+    Adaptive Controller and the new Microsoft Adaptive Accessories. Gabi has
+    become a strong advocate for bringing accessibility to mainstream consumer
+    electronics and embracing inclusive design in all things. Gabi is also an
+    avid gamer and has been gaming since she was very young.
+
 !!! tip "Xalavier Nelson Jr."
 
     ![Xalavier Nelson Jr.](assets/img/keynote_xalavier.jpg){ align=left }
