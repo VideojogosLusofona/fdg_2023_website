@@ -2,13 +2,15 @@
 
 ## Workshop on Tabletop Games
 
+:fontawesome-solid-link: <https://tabletopgamesworkshop.org/>
+
 The aim of the 5th workshop on Tabletop Games is to address ways in which
-academics can apply their tools to the discussion of analog games; this
-includes but is not limited to board games, war games, tabletop role-playing,
-collectible card games and other miniature games. The workshop also aims to
-highlight the connections between analog and digital games, either approaching
-the prototyping and playtesting aspects or exploring the hybrid dimension of
-games directly influenced by the analog dimension.
+academics can apply their tools to the discussion of analog games; this includes
+but is not limited to board games, war games, tabletop role-playing, collectible
+card games and other miniature games. The workshop also aims to highlight the
+connections between analog and digital games, either approaching the prototyping
+and playtesting aspects or exploring the hybrid dimension of games directly
+influenced by the analog dimension.
 
 ## Workshop on Combating Toxicity, Hate, and Harassment in Online Games
 
@@ -81,3 +83,32 @@ practices for academic game development and expanding publications on that
 topic. Join us for a day of getting into the weeds of academic game
 development and shaping the discourse surrounding it.
 
+## Workshop on Eudaimonia in Digital Games
+
+"The concept of eudaimonia in the study of video games has been the subject of
+increasing interest in recent years, especially as juxtaposed to the idea of
+hedonia which is often assumed as lying at the heart of most video game play
+experiences. However, there is a lack of consensus on what eudaimonia exactly
+is, how it manifests in the player experience, and what effect it could have on
+the emotional experience of game play.
+
+This workshop seeks to bring together researchers from across a broad range of
+games research fields, such as those represented at FDG. We will discuss this
+emerging and important concept and potentially create a cross-disciplinary
+research agenda for delving deeper into how this foundational concept of
+wellbeing can be applied within the field of digital games."
+
+## Workshop on Human-AI Interaction Through Play
+
+:fontawesome-solid-link: <https://sites.google.com/view/hai-play-2023-workshop/home>
+
+Human-AI Interaction is a rapidly growing research area. As Artificial
+Intelligence (AI) and machine learning (ML) increasingly take over tasks
+previously performed only by humans, it leads to more situations where humans
+and machines need to cooperate. In this work, we explore questions around
+human-AI interaction and cooperation through play. For example, how to design
+playful interactions that facilitate human-AI teams? Can affects associated with
+gameplay be used to guide human-AI collaboration? How do we design gameplay
+where multiple AIs and multiple players interact with one another? In addition
+to paper presentations, workshop attendees will participate in group discussions
+and idea formulation.
