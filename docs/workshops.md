@@ -14,6 +14,8 @@ influenced by the analog dimension.
 
 ## Workshop on Combating Toxicity, Hate, and Harassment in Online Games
 
+:fontawesome-solid-link: <https://toxicity-in-games-workshop.com/>
+
 While online multiplayer games are great in many ways (e.g., supporting
 social connectedness), they are also platforms on which players can
 experience or witness toxicity, hate, and harassment. These behaviours are
