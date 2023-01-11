@@ -23,7 +23,7 @@
 
 ## Keynote Chair
 
-- Mike Cook, Queen Mary University of London
+- Mike Cook, Kings College London
 
 ## Local Chairs
 
