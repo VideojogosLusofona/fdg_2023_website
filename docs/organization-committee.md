@@ -15,7 +15,7 @@
 | Track      | Chair | Affiliation |
 | ---------- | ----- | ----------- |
 | Technical Game Development, Novel Controllers | Shuichi Kurabayashi | Director of CyGames Research |
-| Game Design, Studio Practices, Novel Mechanics, Novel Experiences | Petri Lankowski  | Södertörn University |
+| Game Design, Studio Practices, Novel Mechanics, Novel Experiences | Petri Lankoski  | Södertörn University |
 | Game Analytics and Visualization | Simone Kriglstein | Masaryk University & AIT Austrian Institute of Technology |
 | Game Artificial Intelligence | Raluca Gaina | Queen Mary University of London |
 | Game Criticism and Analysis | Katta Spiel |TU Wien – Vienna University of Technology |
