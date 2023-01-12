@@ -20,6 +20,8 @@
 | Game Artificial Intelligence | Raluca Gaina | Queen Mary University of London |
 | Game Criticism and Analysis | Katta Spiel |TU Wien – Vienna University of Technology |
 | Games Beyond Entertainment | Rafael Bidarra | TU Delft – Delft University of Technology |
+| Late Breaking Short Papers | Laura Levy | Georgia Institute of Technology |
+|                            | Henrik Warpefelt | Kennesaw State University |
 
 ## Keynote Chair
 
