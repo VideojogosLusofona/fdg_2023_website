@@ -87,6 +87,8 @@ development and shaping the discourse surrounding it.
 
 ## Workshop on Eudaimonia in Digital Games
 
+:fontawesome-solid-link: <https://sites.google.com/view/eudaimonia-in-games>
+
 "The concept of eudaimonia in the study of video games has been the subject of
 increasing interest in recent years, especially as juxtaposed to the idea of
 hedonia which is often assumed as lying at the heart of most video game play
