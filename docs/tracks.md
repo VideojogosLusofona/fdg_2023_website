@@ -28,6 +28,14 @@ This track invites submissions with perspectives in the digital humanities, cult
 
 This track is dedicated to game inclusion, game accessibility, and game development for activism, citizenship, health, games as therapy, education, heritage, and other purposes beyond entertainment. Digital, mixed, analog, and locative games and play-spaces are all relevant to this track. Co-creation, participatory design, and game creation kits are relevant for this track. For games in education and training, this includes teaching and assessment methods, tools and techniques, and educational game-related programs.
 
+### Late Breaking Short Papers
+
+This track is an amalgam of all previous tracks, focusing on smaller scale
+studies, work in progress, vision studies and tools/artifacts related to digital
+game research. Papers in this track will be 4 pages in the final double column
+format (including references). All papers will be included in the official ACM
+FDG 2023 proceedings.
+
 ## Workshop Proposals
 
 FDG 2023 provides venues to host a series of full-day or half-day workshop sessions, focused on current and emerging game-related topics. Workshops are an opportunity to discuss, present, and demonstrate new technological developments, emerging technologies, specific research topics and game-related topics. We especially encourage workshops and topics that involve participants from a range of disciplinary backgrounds, towards strengthening interdisciplinarity in games research.

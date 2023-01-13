@@ -11,10 +11,18 @@ information please refer to the [Tracks](tracks.md) section of the website.
 ## Submission Guidelines
 
 Papers should have a maximum of 10 pages, excluding references, reporting new
-research. Late-breaking short papers should have a maximum of 4 pages,
-**including** references. Papers need to be anonymized and submitted in the ACM
-SIGCONF version of the [ACM Primary Template] within their respective track
-using [EasyChair].
+research.
+
+Late-breaking short papers should have a maximum of 4 pages,
+**including** references.
+
+Late-breaking short papers should have a maximum of 4 pages in the final double column format, **including** references. Both single-column and double-column submissions are acceptable. The ACM template has a double-column option (see interim Template) for both LaTeX and Word Documents on the [ACM Website][ACM
+Primary Template]. Note that single-column submissions can be slightly longer
+(e.g. a maximum of 6 pages), but extra work may be needed on acceptance to
+conform to page limits when converting to the final double-column format.
+
+Papers need to be anonymized and submitted in the ACM SIGCONF version of the
+[ACM Primary Template] within their respective track using [EasyChair].
 
 Accepted papers will be included in the proceedings under the respective track
 submitted. When submitting, authors are requested to select the track that fits
