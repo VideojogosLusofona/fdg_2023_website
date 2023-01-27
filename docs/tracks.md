@@ -69,7 +69,7 @@ Competitions provide a venue for the submission of community-driven solutions ca
 
 The games and demo exhibition provides a forum for demonstrations of work best suited to interaction rather than a paper or formal presentation. This track encourages submissions of games in various stages of development, from playable physical mock-ups to full-fledged implementations, as well as technical demos showcasing the latest tools, techniques, and systems created for games by academic or industrial research groups, or other early-stage or late-breaking research not yet ready for formal presentation.
 
-Submissions should include a 4-page extended abstract using the ACM SIGCONF version of the [ACM Primary Template], an unedited video illustrating the game or technology, and (if possible) a link to the demo. Games and tech demos will be presented at a dedicated games and tech demo session open to the public.
+Submissions should include a 2-page extended abstract using the ACM SIGCONF version of the [ACM Primary Template], an unedited video illustrating the game or technology, and (if possible) a link to the demo. Games and tech demos will be presented at a dedicated games and tech demo session open to the public.
 
 ## Doctoral Consortium
 
