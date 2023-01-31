@@ -43,6 +43,13 @@ FDG 2023 is sponsored by [Microsoft].
   ![Sponsors](assets/img/logos_sponsors.png)
 </figure>
 
+FDG is locally sponsored by [Caramulo](https://www.aguasdocaramulo.pt/) and
+[Quinta Alta](https://www.quintaalta.pt/en/tbt/).
+
+<figure markdown>
+  ![Sponsors](assets/img/logos_local_sponsors.png)
+</figure>
+
 ## Statement of Values
 
 The organizers, general chairs and program chairs of the Foundation of Digital Games 2023 conference affirm the event's commitment to scholarly integrity, collegiality and professionalism, and inclusivity towards scholars of all backgrounds. This conference follows the ethos defined by our [code of conduct](code-of-conduct.md).
