@@ -42,12 +42,59 @@ Lisbon is a tourist-friendly city, with many flights arriving daily. From the US
 
 ## Getting to the Conference
 
-
 <figure markdown>
   [![Lisbon map](assets/img/lisbon_map.jpg)](https://www.google.com/maps/dir/Aeroporto+Humberto+Delgado,+Alameda+das+Comunidades+Portuguesas,+1700-111+Lisboa/Universidade+Lus%C3%B3fona+de+Humanidades+e+Tecnologias,+Campo+Grande,+Lisboa/@38.764756,-9.1477572,15z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0xd19324616d90183:0xa66a53e58036d46!2m2!1d-9.1353667!2d38.7755936!1m5!1m1!1s0xd1932fc16a21773:0xbb910a0db57ce114!2m2!1d-9.153116!2d38.7580243)
   <figcaption>Distance from Airport to Conference Venue (by car).</figcaption>
 </figure>
 
-
-
 Lisbon has the advantage of having a very central airport, making it very easy for anyone arriving in Lisbon to easily get to their accommodations or anywhere around the city. Directly from the airport anyone can arrive at the conference venue in under 8 minutes by car (or Taxi) or take advantage of the extensive mass-transit system available, i.e., subway network available (Red and Green/Yellow line). Taxi services tend to run 24 hours a day and are quite affordable from the airport (≅ 10€ / 11$), while subway service runs from 6:30 AM to 1:00 AM every day. 
+
+## Conference Dinner
+
+**1300 Taberna**
+
+In 1846, one of Lisbon’s most significant factories, the weaving and textile
+company Companhia de Fiação e Tecidos Lisbonense, found its home in Alcântara.
+In the following years, the 23.000m2 industrial site was occupied by the food
+processing company Companhia Industrial de Portugal e Colónias and by printers
+Anuário Comercial de Portugal and Gráfica Mirandela.
+
+After years of being hidden from the public eye, this little fraction of the
+city has now been unveiled and returned to the community in the form of Lx
+Factory. This creative hub is fuelled by companies and industry professionals,
+but it has also been brought to life by an array of different events in fields
+such as fashion, advertising, communication, multimedia, art, architecture and
+music, among others, which have encouraged countless visitors to rediscover this
+part of Alcântara.
+
+**1300 Taberna** is one of the most popular restaurants in LX factory. 1300
+Taberna is sprawling and stunning, with flamboyant lighting fixtures, fanciful
+plates and cutlery and — most important — appealing food that puts Portuguese
+staples through mildly inventive paces.
+
+:fontawesome-solid-link: <https://www.1300taberna.com>
+
+<figure markdown>
+  ![1300 Taberna](assets/img/1300_1.webp)
+  <figcaption>1300 Taberna</figcaption>
+</figure>
+
+<figure markdown>
+  ![1300 Taberna](assets/img/1300_2.webp)
+  <figcaption>1300 Taberna</figcaption>
+</figure>
+
+<figure markdown>
+  ![1300 Taberna](assets/img/1300_3.webp)
+  <figcaption>1300 Taberna</figcaption>
+</figure>
+
+<figure markdown>
+  ![1300 Taberna](assets/img/1300_4.webp)
+  <figcaption>1300 Taberna</figcaption>
+</figure>
+
+<figure markdown>
+  ![1300 Taberna](assets/img/1300_5.webp)
+  <figcaption>1300 Taberna</figcaption>
+</figure>
