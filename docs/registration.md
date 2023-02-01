@@ -8,16 +8,18 @@ options are available for attendees.
 will have to pay for a regular registration ticket, even if presenting
 online.
 
-**Early Bird tickets are available until March 15, 2023!**
+## Early Bird tickets are available until March 15, 2023!
 
-- Regular Early Bird (Student): 255€
-- Regular Early Bird (Non-Student): 355€
-- Regular (Student): 300€
-- Regular (Non-Student): 400€
-- 1-Day Workshop: 150€
-- Online Attendance (Non Authors Only): 50€
+| Registration type                    | Price  |
+|--------------------------------------|--------|
+| Regular Early Bird (Student)         | 255€   |
+| Regular Early Bird (Non-Student)     | 355€   |
+| Regular (Student)                    | 300€   |
+| Regular (Non-Student)                | 400€   |
+| 1-Day Workshop                       | 150€   |
+| Online Attendance (Non Authors Only) | 50€    |
 
-**Regular tickets include:**
+## Regular tickets include:
 
 - ACM proceeding fees
 - Access to all workshops
@@ -27,12 +29,12 @@ online.
 - Coffee breaks for all days
 - Social Events:
   - Cocktail
-  - Gala Dinner @ Taberna 1300
+  - Gala Dinner @ [Taberna 1300](venue#conference-dinner)
 - Access to online resources (Discord, recorded talks, etc.)
 - Live online stream of the conference (talks, keynotes and panels)
 - Access to proceedings
 
-**Workshop tickets include:**
+## Workshop tickets include:
 
 - Access to all workshops
 - Lunch on the 11th
@@ -40,7 +42,7 @@ online.
 - Access to online resources (Discord, talks, etc.)
 - Access to proceedings
 
-**Online attendance ticket (for non-authors only):**
+## Online attendance ticket (for non-authors only):
 
 - Access to online resources (Discord, recorded talks, etc.)
 - Live online stream of the conference (talks, keynotes and panels)
