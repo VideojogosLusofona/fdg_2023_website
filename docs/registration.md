@@ -8,7 +8,11 @@ options are available for attendees.
 will have to pay for a regular registration ticket, even if presenting
 online.
 
-## Early Bird tickets are available until March 15, 2023!
+## Registration payment process
+
+_Coming Soon_
+
+## Early bird tickets are available until March 15, 2023!
 
 | Registration type                    | Price  |
 |--------------------------------------|--------|
