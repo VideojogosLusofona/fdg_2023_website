@@ -21,29 +21,30 @@ online.
 
 ## Regular tickets include:
 
-- ACM proceeding fees
+- ACM Proceedings fee
 - Access to all workshops
 - Access to 3-day conference
 - Access to all keynotes and panels
 - Lunch included for the 11th, 12th and 13th
 - Coffee breaks for all days
 - Social Events:
-  - Cocktail
-  - Gala Dinner @ [Taberna 1300](venue#conference-dinner)
+    - Cocktail
+    - Gala Dinner @ [Taberna 1300](../venue#conference-dinner)
 - Access to online resources (Discord, recorded talks, etc.)
 - Live online stream of the conference (talks, keynotes and panels)
-- Access to proceedings
+- Access to Proceedings
 
 ## Workshop tickets include:
 
+- ACM Proceedings fee (if applicable)
 - Access to all workshops
 - Lunch on the 11th
 - Coffee breaks on the 11th
 - Access to online resources (Discord, talks, etc.)
-- Access to proceedings
+- Access to Proceedings
 
 ## Online attendance ticket (for non-authors only):
 
 - Access to online resources (Discord, recorded talks, etc.)
 - Live online stream of the conference (talks, keynotes and panels)
-- Access to proceedings
+- Access to Proceedings
