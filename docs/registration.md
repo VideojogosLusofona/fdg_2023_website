@@ -15,7 +15,6 @@ Online and Hybrid Options for Authors can be found
 
 _Coming Soon_
 
-<!--
 ## Early bird tickets are available until March 15, 2023!
 
 | Registration type                    | Price  |
@@ -24,9 +23,8 @@ _Coming Soon_
 | Regular Early Bird (Non-Student)     | 355€   |
 | Regular (Student)                    | 300€   |
 | Regular (Non-Student)                | 400€   |
-| 1-Day Workshop                       | 150€   |
 | Online Attendance (Non Authors Only) | 50€    |
--->
+<!--| 1-Day Workshop                       | 150€   |-->
 
 ## Regular tickets include:
 
