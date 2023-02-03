@@ -4,14 +4,18 @@ The Foundations of Digital Games 2023 will take place in Lisbon, Portugal.
 Together with the SASDG board and the FDG 2023 steering committee several
 options are available for attendees.
 
-*Note:* Authors who wish to have their papers published in the proceedings
-will have to pay for a regular registration ticket, even if presenting
-online.
+*Note:* Authors who wish to have their papers published in the proceedings,
+**there must be at least one author registered for a regular registration
+ticket**, even if presenting online.
+
+Online and Hybrid Options for Authors can be found
+[here](../author-information#remote-options-and-presentations).
 
 ## Registration payment process
 
 _Coming Soon_
 
+<!--
 ## Early bird tickets are available until March 15, 2023!
 
 | Registration type                    | Price  |
@@ -22,6 +26,7 @@ _Coming Soon_
 | Regular (Non-Student)                | 400€   |
 | 1-Day Workshop                       | 150€   |
 | Online Attendance (Non Authors Only) | 50€    |
+-->
 
 ## Regular tickets include:
 
@@ -38,6 +43,7 @@ _Coming Soon_
 - Live online stream of the conference (talks, keynotes and panels)
 - Access to Proceedings
 
+<!--
 ## Workshop tickets include:
 
 - ACM Proceedings fee (if applicable)
@@ -46,6 +52,7 @@ _Coming Soon_
 - Coffee breaks on the 11th
 - Access to online resources (Discord, talks, etc.)
 - Access to Proceedings
+-->
 
 ## Online attendance ticket (for non-authors only):
 
