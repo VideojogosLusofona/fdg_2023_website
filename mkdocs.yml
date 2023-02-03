@@ -24,7 +24,8 @@ extra_css:
 nav:
 - Home: index.md
 - Tracks: tracks.md
-- Calls: calls.md
+#- Calls: calls.md
+- Registration: registration.md
 - Author information: author-information.md
 - Workshops: workshops.md
 - Keynotes: keynotes.md
