@@ -13,7 +13,9 @@ Online and Hybrid Options for Authors can be found
 
 ## Registration payment process
 
-_Coming Soon_
+Register to FDG 2023 using the following link:
+
+:fontawesome-solid-link: <https://www.eventbrite.com/e/2023-foundations-of-digital-games-tickets-538409195397>
 
 ## Early bird tickets are available until March 15, 2023!
 
