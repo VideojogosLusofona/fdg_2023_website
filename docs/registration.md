@@ -21,11 +21,11 @@ Register to FDG 2023 using the following link:
 
 | Registration type                    | Price  |
 |--------------------------------------|--------|
-| Regular Early Bird (Student)         | 255€   |
-| Regular Early Bird (Non-Student)     | 355€   |
-| Regular (Student)                    | 300€   |
-| Regular (Non-Student)                | 400€   |
-| Online Attendance (Non Authors Only) | 50€    |
+| Regular Early Bird (Student)         | 275$ (USD)   |
+| Regular Early Bird (Non-Student)     | 380$ (USD)   |
+| Regular (Student)                    | 325$ (USD)  |
+| Regular (Non-Student)                | 430$ (USD)  |
+| Online Attendance (Non Authors Only) | 50$ (USD)   |
 <!--| 1-Day Workshop                       | 150€   |-->
 
 ## Regular tickets include:
