@@ -10,31 +10,31 @@ information please refer to the [Tracks](tracks.md) section of the website.
 
 ## Submission Guidelines
 
-All papers need to be submitted in the ACM SIGCONF version of the [ACM Primary Template] 
-within their respective track using [EasyChair]. When submitting, authors are requested to 
+All papers need to be submitted in the ACM SIGCONF version of the [ACM Primary Template]
+within their respective track using [EasyChair]. When submitting, authors are requested to
 select the track that fits more closely to their submitted work.
 
-**Regular papers** should have a maximum of 10 pages, excluding references, reporting new 
-research. Regular papers should be anonymized, and accepted papers will be included in the 
+**Regular papers** should have a maximum of 10 pages, excluding references, reporting new
+research. Regular papers should be anonymized, and accepted papers will be included in the
 ACM proceedings.
 
-**Late-breaking short papers** should have a maximum of 4 pages in the final double column 
+**Late-breaking short papers** should have a maximum of 4 pages in the final double column
 format, including references. Both single-column and double-column submissions are acceptable.
-The ACM template has a double-column option (see interim Template) for both LaTeX and Word Documents 
-on the [ACM Website]. Note that single-column submissions can be slightly longer (e.g. a maximum of 
-6 pages), but extra work may be needed on acceptance to conform to page limits when converting to the 
-final double-column format. Late-breaking papers should be anonymized, and accepted papers will be 
+The ACM template has a double-column option (see interim Template) for both LaTeX and Word Documents
+on the [ACM Website]. Note that single-column submissions can be slightly longer (e.g. a maximum of
+6 pages), but extra work may be needed on acceptance to conform to page limits when converting to the
+final double-column format. Late-breaking papers should be anonymized, and accepted papers will be
 included in the ACM proceedings.
 
-**Doctoral Consortium** papers should have a maximum of 8 pages in double-blind or single-blind 
-format, including references. Doctoral consortium papers should include the proposed research of 
-the Doctoral candidate, as well as a biographical note about the candidate’s background and work 
-so far. Doctoral consortium papers are NOT anonymized. DC papers will NOT be included in the ACM 
+**Doctoral Consortium** papers should have a maximum of 8 pages in double-blind or single-blind
+format, including references. Doctoral consortium papers should include the proposed research of
+the Doctoral candidate, as well as a biographical note about the candidate’s background and work
+so far. Doctoral consortium papers are NOT anonymized. DC papers will NOT be included in the ACM
 proceedings.
 
-**Games & Demos** submissions should include a 1-2 page description of the game and demo, as well 
-as a link on a video, screenshots, or executable of the submitted work. Games & Demos submissions 
-are not anonymized, so feel free to add your personal itch.io page, youtube channel, or other site 
+**Games & Demos** submissions should include a 1-2 page description of the game and demo, as well
+as a link on a video, screenshots, or executable of the submitted work. Games & Demos submissions
+are not anonymized, so feel free to add your personal itch.io page, youtube channel, or other site
 where the game is described. Games & Demos submissions will NOT be included in the ACM proceedings.
 
 ### Paper Submission Deadlines
@@ -44,6 +44,7 @@ where the game is described. Games & Demos submissions will NOT be included in t
 - **Late-Breaking Short Papers:** 27 January 2023
 - **Games & Demos Deadline:** 27 January 2023
 - **Doctoral Consortium Deadline:** 27 January 2023
+- **Notifications for Late Breaking Short Papers:** 3 March 2023
 
 ### Workshop, Panels and Competition Submission Deadlines
 
