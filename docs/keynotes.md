@@ -1,5 +1,6 @@
 # Keynotes
 
+<!--
 !!! tip "Gabi Michel"
 
     ![Gabi Michel](assets/img/keynote_gabi.jpg){ align=left }
@@ -12,6 +13,22 @@
     become a strong advocate for bringing accessibility to mainstream consumer
     electronics and embracing inclusive design in all things. Gabi is also an
     avid gamer and has been gaming since she was very young.
+-->
+
+!!! tip "Kaitlyn Jones"
+
+    ![Kaitlyn Jones](assets/img/keynote_kaitlyn.jpg){ align=left }
+
+    **Kaitlyn Jones** is a Program Manager on Xbox’s Gaming Accessibility Team
+    at Microsoft, Doctor of Occupational Therapy, an Director of Clinical
+    Outreach for the accessible gaming non-profit organization Warfighter
+    Engaged. Her primary roles at Microsoft include driving accessibility
+    initiatives across Xbox hardware and platform programs and creating
+    accessibility resources for game developers including the award-winning
+    Microsoft Gaming Fundamentals Training and recent updates to the Xbox
+    Accessibility Guidelines. Kaitlyn is a life-long gamer and passionate
+    advocate for the creation of accessible solutions within all mainstream
+    technologies.
 
 !!! tip "Xalavier Nelson Jr."
 
