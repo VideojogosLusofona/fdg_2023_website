@@ -67,7 +67,9 @@ This support will be crucial in stimulating the community, offer opportunities
 for graduate students willing to network and bring their papers to Lisbon, and
 offer more opportunities for individuals to present their papers.
 
-More information on how to apply for these funds will be published soon.
+More information on the SASDG Grant can be found at on the 
+[official website](http://sasdg.org/tap.html), while application forms can be 
+done by following this [link](https://docs.google.com/forms/d/e/1FAIpQLSccak2zC98emiA9NyDnk9MISiK6vNtYesrngL_7M6cGbX6Nmw/formrestricted)
 
 ## Remote Options and Presentations
 
@@ -119,3 +121,5 @@ experience the conference when is most convenient.
 [ACM Primary Template]:https://www.acm.org/publications/proceedings-template
 [ACM Website]:https://www.acm.org/publications/proceedings-template
 [EasyChair]:https://easychair.org/conferences/?conf=fdg2023
+[SASGD Grant]:http://sasdg.org/tap.html
+[GrantApplication]: https://docs.google.com/forms/d/e/1FAIpQLSccak2zC98emiA9NyDnk9MISiK6vNtYesrngL_7M6cGbX6Nmw/formrestricted
