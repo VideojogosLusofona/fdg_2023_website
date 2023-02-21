@@ -44,7 +44,7 @@ where the game is described. Games & Demos submissions will NOT be included in t
 - **Late-Breaking Short Papers:** 27 January 2023
 - **Games & Demos Deadline:** 27 January 2023
 - **Doctoral Consortium Deadline:** 27 January 2023
-- **Notifications for Late Breaking Short Papers:** 3 March 2023
+- **Notifications for Late Breaking Short Papers:** 7 March 2023
 
 ### Workshop, Panels and Competition Submission Deadlines
 
