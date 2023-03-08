@@ -48,207 +48,204 @@
 - Christoph Salge, University of Hertfordshire
 
 ## PC members
+PC members with Exceptional Service are marked with &#9734;
 
-- Anna-Sofia Alklind Taylor, *InGaMe Lab, University of Skövde*
-- Andrea Giaime Alonge, *University of Turin*
-- Alberto Alvarez, *Malmö University*
-- Rui Antunes, *Universidade Lusófona*
-- Ali Arya, *Carleton University*
-- Hamna Aslam, *Innopolis University*
-- Jannicke Baalsrud Hauge, *Bremer Institut für Produktion und
-    Logistik /University of Bremen*
-- Per Backlund, *University of Skövde*
-- Anastasios Bakaoukas, *University of Northampton*
-- Sander Bakkes, *Utrecht University*
-- J. Timothy Balint, *Battelle Memorial Institute*
-- Pippin Barr, *Concordia University*
-- Nicolas A. Barriga, *Universidad de Talca*
-- Gabriella Barros, *Modl.ai*
-- Francesco Bellotti, *University of Genoa*
-- Riccardo Berta, *University of Genoa*
-- Staffan Björk, *University of Gothenburg*
-- Krista Bonello Rutter Giappone, *University of Malta*
-- Anne-Gwenn Bosser, *ENIB, Lab-STICC*
-- Tom Brock, *Manchester Met*
-- Joseph Alexander Brown, *Thompson Rivers University*
-- Douglas Brown, *Falmouth University*
-- Stefan Brückner, *Toyo University*
-- Jenny Brusk, *University of Skövde*
-- Wei Cai, *The Chinese University of Hong Kong, Shenzhen*
-- Marco-Benoît Carbone, *Brunel University, London*
-- Elin Carstensdottir, *University of California Santa Cruz*
-- Stefano Caselli, *University of Malta*
-- M Charity, *New York University*
-- Yingrong Chen, *N/A*
-- Yun-Gyung Cheong, *SKKU*
-- Poonam Chowdhury, *The English and Foreign Languages University,
-    Hyderabad*
-- Adam Clayden, *University of Suffolk*
-- Sebastian Cmentowski, *University of Duisburg-Essen*
-- Antonio Coelho, *University of Porto*
-- Michael Cook, *Queen Mary University of London*
-- Seth Cooper, *Northeastern University*
-- Conceição Costa, *Lusófona University*
-- Steve Dahlskog, *Malmö University*
-- Rossana Damiano, *Dipartimento di Informatica, Università di Torino*
-- Damon Daylamani-Zad, *Brunel University London*
-- Fernando De Mesentier Silva, *Game Innovation Lab - New York
-    University*
-- Rodrigo de Moura Canaan, *New York University*
-- Alexander Dockhorn, *OvGU Magdeburg*
-- Joris Dormans, *Unexplored*
-- Sam Earle, *New York University*
-- Nuno Fachada, *Lusófona University, COPELABS*
-- Riccardo Fassone, *Università di Torino*
-- Clara Fernandez-Vara, *New York University*
-- Emmanoel Ferreira, *Universidade Federal Fluminense*
-- Jose Font, *Malmö University*
-- Dom Ford, *IT University of Copenhagen*
-- Eva Fotiadi, *avans university of applied sciences*
-- Davide Gadia, *University of Milan*
-- Henrique Galvan Debarba, *IT University of Copenhagen*
-- Anthony George, *Dipartimento di Informatica, Università di Torino*
-- Gianmarco Giuliana, *Università degli studi di Torino*
-- Florian Gnadlinger, *University of Applied Sciences HTW Berlin;
-    Masaryk University*
-- Samuel Gomes, *Universidade de Lisboa*
-- James Goodman, *Queen Mary University of London*
-- Patrícia Gouveia, *Universidade de Lisboa*
-- Michael Green, *New York University*
-- Marianthi Grizioti, *University of Athens*
-- Stefano Gualeni, *Institute of Digital Games (University of Malta)*
-- Emmanuel Guardiola, *CNAM*
-- Matthew Guzdial, *University of Alberta*
-- Jessica Hammer, *Carnegie Mellon University*
-- Erik Harpstead, *Carnegie Mellon University*
-- Johnathan Harrington, *Hong Kong Baptist University*
-- Brent Harrison, *University of Kentucky*
-- Casper Harteveld, *Northeastern University*
-- Dave Hawey, *NAD / UQAC*
-- Simon Hoermann, *University of Canterbury*
-- Lissa Holloway-Attaway, *University of Skövde*
-- Jussi Holopainen, *City University of Hong Kong*
-- Jeff Howard, *Falmouth University*
-- Peter Howell, *University of Portsmouth*
-- Chu-Hsuan Hsueh, *Japan Advanced Institute of Science and
-    Technology*
-- Vincenzo Idone Cassone, *University of Turin, CIRCe*
-- Justyna Janik, *Jagiellonian University in Krakow*
-- Mads Johansen, *IT University of Copenhagen*
-- Magnus Johansson, *Uppsala University, Department of Game design*
-- Amogh Joshi, *Purdue University*
-- Nic Junius, *University of California, Santa Cruz*
-- Daniel Karavolos, *University of Malta*
-- Isaac Karth, *Department of Computational Media, UC Santa Cruz*
-- Rilla Khaled, *Concordia University*
-- Ahmed Khalifa, *University of Malta*
-- Erica Kleinman, *University of California Santa Cruz*
-- Rens Kortmann, *Delft University of Technology*
-- George Koutromanos, *Department of Education, National and
-    Kapodistrian University of Athens*
-- Jakub Kowalski, *Department of Mathematics and Computer Science,
-    University of Wrocław*
-- Max Kreminski, *Santa Clara University*
-- Annakaisa Kultima, *Aalto University*
-- Quinn Kybartas, *McGill University*
-- Pier Luca Lanzi, *Politecnico di Milano*
-- Olli Leino, *City University of Hong Kong*
-- Jonathan Lessard, *Concordia University*
-- Fotis Liarokapis, *CYENS - Centre of Excellence*
-- Zhiyu Lin, *Georgia Institute of Technology*
-- Enrica Loria, *Graz University of Technology*
-- Tiago Machado, *Universidade Federal de Pernambuco*
-- Joao Madeiras Pereira, *IST/INESC-ID*
-- Péter Makai, *Kulturwissenschaftliches Institut, Universität
-    Duisburg-Essen*
-- Carlos Martinho, *Universidade de Lisboa*
-- Alan Mattiassi, *University of Udine*
-- Michael Mccreery, *University of Nevada, Las Vegas*
-- Lakshmi Menon, *University of Kerala*
-- Enrico Mensa, *Battelle Memorial Institute*
-- Radosław Miernik, *University of Wrocław*
-- Koji Mikami, *Tokyo University of Technology*
-- Michal Mochocki, *Kazimierz Wielki University in Bydgoszcz*
-- Marçal Mora-Cantallops, *University of Alcalá*
-- Miguel Ehécatl Morales Trujillo, *University of Canterbury*
-- Leonel Morgado, *INESC TEC / Universidade Aberta*
-- Sebastian Möring, *University of Potsdam*
-- Michela Mortara, *CNR imati Ge*
-- Torill Mortensen, *IT-University of copenhagen*
-- Maxim Mozgovoy, *University of Aizu*
-- Lucas N. Ferreira, *University of Alberta*
-- Victor Navarro-Remesal, *Tecnocampus, Universitat Pompeu Fabra*
-- Mark J. Nelson, *American University*
-- Pedro Neves, *HEI-Lab: Digital Human-Environment Interaction Lab,
-    Lusófona University*
-- Manuel Ninaus, *TU Graz*
-- Hiroyuki Nishiyama, *Tokyo University of Science*
-- Renata Ntelia, *Institute of Digital Games, University of Malta*
-- Casey O'Donnell, *Michigan State University*
-- Costantino Oliva, *University of Malta*
-- Jasmine Otto, *University of California Santa Cruz*
-- Nathan Partlan, *Northeastern University*
-- Aparna Pathak, *Jamia Millia Islamia*
-- James Patten, *Lero, the Science Foundation Ireland Research Centre
-    for Software*
-- Diego Perez Liebana, *Queen Mary University of London*
-- Beatriz Pérez Zapata, *Tecnocampus (Pompeu Fabra University)*
-- Fabio Petrillo, *Universite du Quebec a Chicoutimi*
-- Johannes Pfau, *University of California, Santa Cruz*
-- Andrew Phelps, *University of Canterbury & American University*
-- Charlotte Pierce, *Swinburne University of Technology*
-- Antonio José Planells, *Tecnocampus - Universitat Pompeu Fabra*
-- Samuel Poirier-Poulin, *Université de Montréal*
-- Rui Prada, *Universidade de Lisboa*
-- Mike Preuss, *Universiteit Leiden*
-- Florian Richoux, *AIST*
-- Zahra Rizvi, *Jamia Millia Islamia*
-- Ricardo Rodrigues, *Universidade de Lisboa*
-- Licinio Roque, *University of Coimbra*
-- Doris C. Rusch, *Uppsala University*
-- Ben Samuel, *University of New Orleans*
-- Pedro A. Santos, *Universidade de Lisboa*
-- Anurag Sarkar, *Northeastern University*
-- Stamatia Savvani, *University of Essex*
-- Bobby Schweizer, *Texas Tech University*
-- Marco Scirea, *University of Southern Denmark*
-- Miguel Sicart, *IT University of Copenhagen*
-- Bart Simon, *Concordia University*
-- Sam Snodgrass, *modl.ai*
-- Edirlei Soares de Lima, *Universidade Europeia - IADE*
-- Dennis J. N. J. Soemers, *Maastricht University*
-- Lisa Soros, *New York University*
-- João Sousa, *Universidade Lusófona do Porto*
-- Carla Sousa, *ULHT*
-- Matthew Stephenson, *Maastricht University*
-- Björn Strååt, *Stockholm University*
-- Kosuke Takano, *Kanagawa Institute of Technology*
-- Munehiro Takimoto, *Tokyo University of Science*
-- Patricia Tedesco, *Center for Informatics / UFPE*
-- Mateo Terrasa-Torres, *Independent Scholar*
-- Ruck Thawonmas, *Ritsumeikan University*
-- Mariët Theune, *University of Twente*
-- Marcus Toftedahl, *Science Park Skövde*
-- Julian Togelius, *New York University*
-- Prabhash Ranjan Tripathy, *Jawaharlal Nehru University*
-- Erik Van Der Spek, *Eindhoven University of Technology*
-- Clark Verbrugge, *McGill University*
-- Sebastian von Mammen, *Julius-Maximilians University Würzburg*
-- Mirjam Vosmeer, *Hogeschool van Amsterdam*
-- Iro Voulgari, *National and Kapodistrian University of Athens,
-    Department of Early Childhood Education*
-- Ioannis Vrellis, *University of Ioannina*
-- Krzysztof Walczak, *Poznań University of Economics and Business*
-- Guenter Wallner, *Johannes Kepler University Linz*
-- Henrik Warpefelt, *Kennesaw State University*
-- Agata Waszkiewicz, *Maria Curie-Skłodowska University*
-- Thomas Westin, *Stockholm University*
-- Johanna Weststar, *Western University*
-- Ulf Wilhelmsson, *University of Skövde*
-- Mark H. M. Winands, *Maastricht University*
-- Peter Xenopoulos, *New York University*
-- Georgios N. Yannakakis, *Institute of Digital Games, University of
-    Malta*
-- Nestor Z. Salamon, *Appus HR Analytics*
-- Nelson Zagalo, *University of Aveiro*
-- Ran Zhang, *Univeristy of Skövede*
+<li>Adam Clayden, <i>University of Suffolk</i>&#9734;</li>
+<li>Agata Waszkiewicz, <i>Maria Curie-Skłodowska University</i></li>
+<li>Ahmed Khalifa, <i>University of Malta</i>&#9734;</li>
+<li>Alan Mattiassi, <i>University of Udine</i></li>
+<li>Alberto Alvarez, <i>Malmö University</i>&#9734;</li>
+<li>Alesha Serada, <i>University of Vaasa</i></li>
+<li>Alexander Dockhorn, <i>OvGU Magdeburg</i>&#9734;</li>
+<li>Ali Arya, <i>Carleton University</i></li>
+<li>Amogh Joshi, <i>Purdue University</i>&#9734;</li>
+<li>Anastasios Bakaoukas, <i>University of Northampton</i></li>
+<li>Andrea Giaime Alonge, <i>University of Turin</i></li>
+<li>Andrew Phelps, <i>University of Canterbury & American University</i></li>
+<li>Anna Sapienza, <i>Technical University of Denmark</i></li>
+<li>Anna-Sofia Alklind Taylor, <i>InGaMe Lab, University of Skövde</i></li>
+<li>Anne-Gwenn Bosser, <i>ENIB, Lab-STICC</i>&#9734;</li>
+<li>Antonio Coelho, <i>University of Porto</i>&#9734;</li>
+<li>Antonio José Planells, <i>Tecnocampus - Universitat Pompeu Fabra</i></li>
+<li>Antonios Liapis, <i>Institute of Digital Games, University of Malta</i>&#9734;</li>
+<li>Anurag Sarkar, <i>Northeastern University</i>&#9734;</li>
+<li>Aparna Pathak, <i>Jamia Millia Islamia</i></li>
+<li>Arduino Viola, <i>tuomuseo</i></li>
+<li>Bart Simon, <i>Concordia University</i></li>
+<li>Beatriz Pérez Zapata, <i>Tecnocampus (Pompeu Fabra University)</i></li>
+<li>Ben Samuel, <i>University of New Orleans</i></li>
+<li>Björn Strååt, <i>Stockholm University</i>&#9734;</li>
+<li>Bobby Schweizer, <i>Texas Tech University</i></li>
+<li>Brent Harrison, <i>University of Kentucky</i>&#9734;</li>
+<li>Carlos Martinho, <i>Universidade de Lisboa</i></li>
+<li>Casey O'Donnell, <i>Michigan State University</i></li>
+<li>Casper Harteveld, <i>Northeastern University</i></li>
+<li>Charlotte Pierce, <i>Swinburne University of Technology</i></li>
+<li>Chu-Hsuan Hsueh, <i>Japan Advanced Institute of Science and Technology</i></li>
+<li>Clara Fernandez-Vara, <i>New York University</i></li>
+<li>Clark Verbrugge, <i>McGill University</i></li>
+<li>Costantino Oliva, <i>University of Malta</i>&#9734;</li>
+<li>Damon Daylamani-Zad, <i>Brunel University London</i>&#9734;</li>
+<li>Daniel Karavolos, <i>University of Malta</i>&#9734;</li>
+<li>Dave Hawey, <i>NAD / UQAC</i></li>
+<li>David Melhart, <i>Institute of Digital Games, University of Malta</i></li>
+<li>Davide Gadia, <i>University of Milan</i>&#9734;</li>
+<li>Dennis J. N. J. Soemers, <i>Maastricht University</i></li>
+<li>Diego Perez Liebana, <i>Queen Mary University of London</i>&#9734;</li>
+<li>Diogo Andrade, <i>Universidade Lusófona de Humanidades e Tecnologia</i></li>
+<li>Dom Ford, <i>IT University of Copenhagen</i></li>
+<li>Doris C. Rusch, <i>Uppsala University</i></li>
+<li>Edirlei Soares de Lima, <i>Universidade Europeia - IADE</i></li>
+<li>Elin Carstensdottir, <i>University of California Santa Cruz</i></li>
+<li>Elina Roinioti, <i>Panteion University of Social and Political Studies</i></li>
+<li>Emmanoel Ferreira, <i>Universidade Federal Fluminense</i></li>
+<li>Emmanuel Guardiola, <i>CNAM</i></li>
+<li>Enrica Loria, <i>Graz University of Technology</i></li>
+<li>Erica Kleinman, <i>University of California Santa Cruz</i></li>
+<li>Erik Harpstead, <i>Carnegie Mellon University</i>&#9734;</li>
+<li>Erik Van Der Spek, <i>Eindhoven University of Technology</i></li>
+<li>Eva Fotiadi, <i>avans university of applied sciences</i>&#9734;</li>
+<li>Fabio Petrillo, <i>Universite du Quebec a Chicoutimi</i></li>
+<li>Fernando De Mesentier Silva, <i>Game Innovation Lab - New York University</i>&#9734;</li>
+<li>Florian Gnadlinger, <i>University of Applied Sciences HTW Berlin; Masaryk University</i></li>
+<li>Florian Richoux, <i>AIST</i></li>
+<li>Fotis Liarokapis, <i>CYENS - Centre of Excellence</i></li>
+<li>Gabriella Barros, <i>Modl.ai</i></li>
+<li>George Koutromanos, <i>Department of Education, National and Kapodistrian University of Athens</i>&#9734;</li>
+<li>Gianmarco Giuliana, <i>Università degli studi di Torino</i></li>
+<li>Guenter Wallner, <i>Johannes Kepler University Linz</i>&#9734;</li>
+<li>Hamna Aslam, <i>Innopolis University</i>&#9734;</li>
+<li>Henrik Warpefelt, <i>Kennesaw State University</i></li>
+<li>Henrique Galvan Debarba, <i>Aalborg University Copenhagen</i></li>
+<li>Hiroyuki Nishiyama, <i>Tokyo University of Science</i></li>
+<li>Ioannis Vrellis, <i>University of Ioannina</i>&#9734;</li>
+<li>Iro Voulgari, <i>National and Kapodistrian University of Athens, Department of Early Childhood Education</i>&#9734;</li>
+<li>Isaac Karth, <i>Department of Computational Media, UC Santa Cruz</i>&#9734;</li>
+<li>J. Timothy Balint, <i>Battelle Memorial Institute</i></li>
+<li>Jakub Kowalski, <i>Department of Mathematics and Computer Science, University of Wrocław</i>&#9734;</li>
+<li>James Goodman, <i>Queen Mary University of London</i>&#9734;</li>
+<li>James Patten, <i>Lero, the Science Foundation Ireland Research Centre for Software</i></li>
+<li>Jannicke Baalsrud Hauge, <i>Bremer Institut für Produktion und Logistik /University of Bremen</i></li>
+<li>Jasmine Otto, <i>University of California Santa Cruz</i></li>
+<li>Jean-Baptiste Hervé, <i>University Hertfordshire</i></li>
+<li>Jeff Howard, <i>Falmouth University</i></li>
+<li>Jenny Brusk, <i>University of Skövde</i></li>
+<li>Jessica Hammer, <i>Carnegie Mellon University</i></li>
+<li>Joao Madeiras Pereira, <i>IST/INESC-ID</i></li>
+<li>João Sousa, <i>Universidade Lusófona Centro Universitário do Porto</i>&#9734;</li>
+<li>Johannes Pfau, <i>University of California, Santa Cruz</i></li>
+<li>Johnathan Harrington, <i>Hong Kong Baptist University</i>&#9734;</li>
+<li>Jonathan Lessard, <i>Concordia University</i></li>
+<li>Joris Dormans, <i>Unexplored</i></li>
+<li>Jose Font, <i>Malmö University</i></li>
+<li>Joseph Alexander Brown, <i>Thompson Rivers University</i>&#9734;</li>
+<li>Jussi Holopainen, <i>City University of Hong Kong</i>&#9734;</li>
+<li>Justyna Janik, <i>Jagiellonian University in Krakow</i></li>
+<li>Koji Mikami, <i>Tokyo University of Technology</i></li>
+<li>Kosuke Takano, <i>Kanagawa Institute of Technology</i></li>
+<li>Krista Bonello Rutter Giappone, <i>University of Malta</i></li>
+<li>Krzysztof Walczak, <i>Poznań University of Economics and Business</i></li>
+<li>Kutub Gandhi, <i>Northeastern University</i></li>
+<li>Lakshmi Menon, <i>University of Kerala</i></li>
+<li>Leonel Morgado, <i>INESC TEC / Universidade Aberta</i></li>
+<li>Licia Calvi, <i>Breda University of Applied Sciences</i></li>
+<li>Licinio Roque, <i>University of Coimbra</i></li>
+<li>Lisa Soros, <i>New York University</i></li>
+<li>Lissa Holloway-Attaway, <i>University of Skövde</i></li>
+<li>Lucas N. Ferreira, <i>University of Alberta</i>&#9734;</li>
+<li>M Charity, <i>New York University</i>&#9734;</li>
+<li>Mads Haahr, <i>Trinity College Dublin</i></li>
+<li>Mads Johansen, <i>IT University of Copenhagen</i></li>
+<li>Magnus Johansson, <i>Uppsala University, Department of Game design</i></li>
+<li>Manuel Ninaus, <i>TU Graz</i></li>
+<li>Marçal Mora-Cantallops, <i>University of Alcalá</i></li>
+<li>Marcello Gómez-Maureira, <i>University of Twente</i>&#9734;</li>
+<li>Marco Scirea, <i>University of Southern Denmark</i></li>
+<li>Marco-Benoît Carbone, <i>Brunel University, London</i></li>
+<li>Marcus Toftedahl, <i>Science Park Skövde</i></li>
+<li>Marianthi Grizioti, <i>University of Athens</i></li>
+<li>Mariët Theune, <i>University of Twente</i>&#9734;</li>
+<li>Mark H. M. Winands, <i>Maastricht University</i></li>
+<li>Mark J. Nelson, <i>American University</i></li>
+<li>Mateo Terrasa-Torres, <i>Independent Scholar</i></li>
+<li>Matthew Guzdial, <i>University of Alberta</i>&#9734;</li>
+<li>Matthew Stephenson, <i>Maastricht University</i></li>
+<li>Max Kreminski, <i>Santa Clara University</i>&#9734;</li>
+<li>Maxim Mozgovoy, <i>University of Aizu</i></li>
+<li>Michael Cook, <i>Queen Mary University of London</i></li>
+<li>Michael Green, <i>New York University</i></li>
+<li>Michael Mccreery, <i>University of Nevada, Las Vegas</i></li>
+<li>Michal Mochocki, <i>Kazimierz Wielki University in Bydgoszcz</i>&#9734;</li>
+<li>Michela Mortara, <i>CNR imati Ge</i>&#9734;</li>
+<li>Miguel Ehécatl Morales Trujillo, <i>University of Canterbury</i></li>
+<li>Miguel Sicart, <i>IT University of Copenhagen</i></li>
+<li>Mike Preuss, <i>Universiteit Leiden</i>&#9734;</li>
+<li>Mikołaj Dymek, <i>Södertörn University</i>&#9734;</li>
+<li>Munehiro Takimoto, <i>Tokyo University of Science</i></li>
+<li>Nathan Partlan, <i>Northeastern University</i></li>
+<li>Nelson Zagalo, <i>University of Aveiro</i></li>
+<li>Nestor Z. Salamon, <i>Appus HR Analytics</i></li>
+<li>Nic Junius, <i>University of California, Santa Cruz</i></li>
+<li>Nicolas A. Barriga, <i>Universidad de Talca</i></li>
+<li>Nuno Fachada, <i>Lusófona University, COPELABS</i>&#9734;</li>
+<li>Olli Leino, <i>City University of Hong Kong</i></li>
+<li>Patrícia Gouveia, <i>Universidade de Lisboa</i></li>
+<li>Patricia Tedesco, <i>Center for Informatics / UFPE</i></li>
+<li>Pedro A. Santos, <i>Universidade de Lisboa</i>&#9734;</li>
+<li>Pedro Neves, <i>HEI-Lab: Digital Human-Environment Interaction Lab, Lusófona University</i>&#9734;</li>
+<li>Per Backlund, <i>University of Skövde</i></li>
+<li>Peter Howell, <i>University of Portsmouth</i></li>
+<li>Péter Makai, <i>Kulturwissenschaftliches Institut, Universität Duisburg-Essen</i></li>
+<li>Peter Xenopoulos, <i>New York University</i>&#9734;</li>
+<li>Petri Lankoski, <i>Södertörn University</i>&#9734;</li>
+<li>Phil Lopes, <i>HEI-Lab, Universidade Lusófona</i>&#9734;</li>
+<li>Pier Luca Lanzi, <i>Politecnico di Milano</i></li>
+<li>Pippin Barr, <i>Concordia University</i>&#9734;</li>
+<li>Poonam Chowdhury, <i>The English and Foreign Languages University, Hyderabad</i></li>
+<li>Prabhash Ranjan Tripathy, <i>Jawaharlal Nehru University</i></li>
+<li>Quinn Kybartas, <i>McGill University</i></li>
+<li>Radosław Miernik, <i>University of Wrocław</i>&#9734;</li>
+<li>Rafael Bidarra, <i>Delft University of Technology</i></li>
+<li>Raluca Gaina, <i>Queen Mary University of London</i></li>
+<li>Ran Zhang, <i>Univeristy of Skövede</i></li>
+<li>Renata Ntelia, <i>Institute of Digital Games, University of Malta</i></li>
+<li>Rens Kortmann, <i>Delft University of Technology</i></li>
+<li>Riccardo Berta, <i>University of Genoa</i></li>
+<li>Riccardo Fassone, <i>Università di Torino</i>&#9734;</li>
+<li>Rilla Khaled, <i>Concordia University</i></li>
+<li>Rodrigo de Moura Canaan, <i>New York University</i></li>
+<li>Rossana Damiano, <i>Dipartimento di Informatica, Università di Torino</i></li>
+<li>Ruck Thawonmas, <i>Ritsumeikan University</i></li>
+<li>Rui Antunes, <i>Universidade Lusófona</i></li>
+<li>Rui Prada, <i>Universidade de Lisboa</i></li>
+<li>Saeed Safikhani, <i>TU Graz</i></li>
+<li>Sam Earle, <i>New York University</i></li>
+<li>Sam Snodgrass, <i>modl.ai</i>&#9734;</li>
+<li>Samuel Poirier-Poulin, <i>Université de Montréal</i></li>
+<li>Sander Bakkes, <i>Utrecht University</i></li>
+<li>Sebastian Cmentowski, <i>University of Duisburg-Essen</i></li>
+<li>Sebastian Möring, <i>University of Potsdam</i></li>
+<li>Sebastian von Mammen, <i>Julius-Maximilians University Würzburg</i></li>
+<li>Seth Cooper, <i>Northeastern University</i>&#9734;</li>
+<li>Shuichi Kurabayashi, <i>Cygames, Inc.</i></li>
+<li>Simon Hoermann, <i>University of Canterbury</i></li>
+<li>Simone Bassanelli, <i>Università di Trento</i></li>
+<li>Sofia Dias, <i>Universidade de Lisboa</i></li>
+<li>Staffan Björk, <i>University of Gothenburg</i></li>
+<li>Stefan Brückner, <i>Toyo University</i>&#9734;</li>
+<li>Stefano Caselli, <i>University of Malta</i></li>
+<li>Stefano Gualeni, <i>Institute of Digital Games (University of Malta)</i></li>
+<li>Steve Dahlskog, <i>Malmö University</i>&#9734;</li>
+<li>Thomas Terkildsen, <i>Aarhus University</i></li>
+<li>Thomas Westin, <i>Stockholm University</i>&#9734;</li>
+<li>Tiago Machado, <i>Universidade Federal de Pernambuco</i></li>
+<li>Tom Brock, <i>Manchester Met</i></li>
+<li>Torill Mortensen, <i>Nord University</i></li>
+<li>Ulf Wilhelmsson, <i>University of Skövde</i></li>
+<li>Victor Navarro-Remesal, <i>Tecnocampus, Universitat Pompeu Fabra</i>&#9734;</li>
+<li>Vincenzo Idone Cassone, <i>University of Turin, CIRCe</i></li>
+<li>Wei Cai, <i>The Chinese University of Hong Kong, Shenzhen</i></li>
+<li>Yingrong Chen, <i>N/A</i></li>
+<li>Yun-Gyung Cheong, <i>SKKU</i></li>
+<li>Zahra Rizvi, <i>Jamia Millia Islamia</i></li>
+<li>Zhiyu Lin, <i>Georgia Institute of Technology</i></li>
