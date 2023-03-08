@@ -105,7 +105,7 @@ PC members with Exceptional Service are marked with &#9734;
 - Erik Harpstead, <i>Carnegie Mellon University</i>&#9734;
 - Erik Van Der Spek, <i>Eindhoven University of Technology</i>
 - Eva Fotiadi, <i>avans university of applied sciences</i>&#9734;
-- Fabio Petrillo, <i>Universite du Quebec a Chicoutimi</i>
+- Fabio Petrillo, <i>École de technologie supérieure (ÉTS), Canada</i>
 - Fernando De Mesentier Silva, <i>Game Innovation Lab - New York University</i>&#9734;
 - Florian Gnadlinger, <i>University of Applied Sciences HTW Berlin; Masaryk University</i>
 - Florian Richoux, <i>AIST</i>
