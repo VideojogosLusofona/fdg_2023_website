@@ -50,6 +50,10 @@
 ## PC members
 PC members with Exceptional Service are marked with &#9734;
 
+- Adam Clayden, <i>University of Suffolk</i>&#9734;
+- Agata Waszkiewicz, <i>Maria Curie-Skłodowska University</i><
+- Ahmed Khalifa, <i>University of Malta</i>&#9734;
+- Alan Mattiassi, <i>University of Udine</i>
 - Alberto Alvarez, <i>Malmö University</i>&#9734;
 - Alesha Serada, <i>University of Vaasa</i>
 - Alexander Dockhorn, <i>OvGU Magdeburg</i>&#9734;
