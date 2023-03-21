@@ -49,6 +49,28 @@ Lisbon is a tourist-friendly city, with many flights arriving daily. From the US
 
 Lisbon has the advantage of having a very central airport, making it very easy for anyone arriving in Lisbon to easily get to their accommodations or anywhere around the city. Directly from the airport anyone can arrive at the conference venue in under 8 minutes by car (or Taxi) or take advantage of the extensive mass-transit system available, i.e., subway network available (Red and Green/Yellow line). Taxi services tend to run 24 hours a day and are quite affordable from the airport (≅ 10€ / 11$), while subway service runs from 6:30 AM to 1:00 AM every day. 
 
+## Hotel recommendations
+
+We suggest the following hotels near the conference site at Lusófona University:
+
+- [VIP Grand Lisboa Hotel & SPA](https://goo.gl/maps/ikMepGs33cEpTyUx6)
+  :star::star::star::star::star: – 132€/night + 2€ tax
+- [Hotel Radisson Blue](https://goo.gl/maps/hADWDZSts2RYa5fD8)
+  :star::star::star::star: – 115€/night + 2€ tax
+- [NH Campo Grande](https://goo.gl/maps/qZtR1CWCn6t47v9w6)
+  :star::star::star::star: – 140€/night + 2€ tax
+- [Hotel ALIF Campo Pequeno](https://goo.gl/maps/EeoGoPMULQth6sM6A)
+  :star::star::star: – 75€/night + 2€ tax
+- [VIP Executive Zurique Hotel](https://goo.gl/maps/W6FX3T1E3ru4XBP68)
+  :star::star::star: – 96€/night + 2€ tax
+
+There are many more places, but if its around the general area of Campo Grande,
+Entrecampos, Campo Pequeno, Saldanha or Marquês de Pombal (from closest to
+farthest) it is generally okay, as there are subway lines that go directly to
+Campo Grande station, close to the conference site at Lusófona University. In
+any case, prefer hotels near subway stations with the yellow or green lines, as
+these go straight to Campo Grande station.
+
 ## Conference Dinner
 
 **1300 Taberna**

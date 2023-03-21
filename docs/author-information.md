@@ -1,5 +1,10 @@
 # Author information
 
+!!! info "Hotel recommendations"
+
+    For hotel recommendations, see the [Venue](venue.md#hotel-recommendations)
+    page.
+
 The Foundations of Digital Games (FDG) 2023 is proud to invite contributions from within and across any discipline committed to advancing knowledge on the foundations of games: computer science and engineering, humanities and social sciences, arts and design, mathematics, and natural sciences. Papers and Demos will receive double-blind peer reviews. All other submissions will be single-blind. All papers are guaranteed at least three reviews. Games and Demos are guaranteed two reviews. There will be no rebuttal. ​All contributions should be submitted via [EasyChair].
 
 ## Workshop, Panel and Competition Proposals
@@ -67,8 +72,8 @@ This support will be crucial in stimulating the community, offer opportunities
 for graduate students willing to network and bring their papers to Lisbon, and
 offer more opportunities for individuals to present their papers.
 
-More information on the SASDG Grant can be found at on the 
-[official website](http://sasdg.org/tap.html), while application forms can be 
+More information on the SASDG Grant can be found at on the
+[official website](http://sasdg.org/tap.html), while application forms can be
 done by following this [link](https://docs.google.com/forms/d/e/1FAIpQLSccak2zC98emiA9NyDnk9MISiK6vNtYesrngL_7M6cGbX6Nmw/formrestricted)
 
 ## Remote Options and Presentations
