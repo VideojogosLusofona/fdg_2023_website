@@ -30,8 +30,8 @@ Conference Proceedings Series (ICPS), unless stated otherwise (see
   ![ACM](assets/img/logos_acm.png)
 </figure>
 
-FDG 2023 is organized by [Lusófona University] and the [HEI-Lab], [CICANT] and
-[COPELABS] research centers.
+FDG 2023 is organized by the [Filmeu consortium] and [Lusófona University], in
+collaboration with the [HEI-Lab], [CICANT] and [COPELABS] research centers.
 
 <figure markdown>
   ![Organization](assets/img/logos_lusof_labs.png)
@@ -65,3 +65,4 @@ The organizers, general chairs and program chairs of the Foundation of Digital G
 [CICANT]:https://cicant.ulusofona.pt/
 [COPELABS]:http://copelabs.ulusofona.pt/
 [Microsoft]:https://www.microsoft.com/
+[Filmeu consortium]:https://www.filmeu.eu/
