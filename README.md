@@ -19,7 +19,7 @@ cd fdg_2023_website
 python -m venv env
 source ./env/bin/activate
 pip install --upgrade pip
-pip install mkdocs-material
+pip install mkdocs-material mkdocs-macros-plugin
 mkdocs serve
 ```
 

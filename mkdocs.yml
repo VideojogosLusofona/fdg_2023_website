@@ -24,7 +24,7 @@ extra_css:
 nav:
 - Home: index.md
 - Tracks: tracks.md
-#- Calls: calls.md
+#- Schedule: schedule.md
 - Registration: registration.md
 - Author information: author-information.md
 - Workshops: workshops.md
@@ -36,6 +36,7 @@ nav:
 
 plugins:
 - search
+- macros
 
 markdown_extensions:
   - attr_list
