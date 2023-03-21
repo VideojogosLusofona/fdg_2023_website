@@ -51,21 +51,23 @@ get feedback and foster collaboration.
 
 ## Edu-larp @ FDG
 
-:fontawesome-solid-link: <https://sites.google.com/view/edu-larp-fdg/home>
+??? failure "This workshop has been cancelled"
 
-Edu-larp is a structured, live action roleplay (larp) experience that
-teaches through social enactment and reflection. We propose to host a
-workshop at FDG 2023 which will connect FDG attendees of various disciplines
-interested in this topic, with the outcome to understand how edu-larp might
-be an effective way of augmenting existing teaching and research within the
-games community. During the workshop, attendees will participate in numerous
-edu-larp exercises designed to introduce and orient them to the concept, and
-facilitate discussion about the different ways edu-larp can be leveraged in
-the broad domain of games research. We invite both researchers and scholars
-interested in larp to join us for this workshop. Those interested should
-submit a proposal (3-pages maximum) outlining their interest in the topic,
-and a short author biography (one half page). Please email your proposal
-submission to Raquel Robinson, rbrobins@ucsc.edu by February 23, 2023.
+    :fontawesome-solid-link: <https://sites.google.com/view/edu-larp-fdg/home>
+
+    Edu-larp is a structured, live action roleplay (larp) experience that
+    teaches through social enactment and reflection. We propose to host a
+    workshop at FDG 2023 which will connect FDG attendees of various disciplines
+    interested in this topic, with the outcome to understand how edu-larp might
+    be an effective way of augmenting existing teaching and research within the
+    games community. During the workshop, attendees will participate in numerous
+    edu-larp exercises designed to introduce and orient them to the concept, and
+    facilitate discussion about the different ways edu-larp can be leveraged in
+    the broad domain of games research. We invite both researchers and scholars
+    interested in larp to join us for this workshop. Those interested should
+    submit a proposal (3-pages maximum) outlining their interest in the topic,
+    and a short author biography (one half page). Please email your proposal
+    submission to Raquel Robinson, rbrobins@ucsc.edu by February 23, 2023.
 
 ## Academic Game Development — Professionalizing the creation of video games for research purposes
 
