@@ -24,7 +24,7 @@ extra_css:
 nav:
 - Home: index.md
 - Tracks: tracks.md
-#- Schedule: schedule.md
+- Schedule: schedule.md
 - Registration: registration.md
 - Author information: author-information.md
 - Workshops: workshops.md
