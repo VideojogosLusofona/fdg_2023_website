@@ -31,14 +31,24 @@ The university can easily accommodate a multi-track conference where several roo
   <figcaption>Vítor Sá Auditorium - Track and Workshop Presentations.</figcaption>
 </figure>
 
-## Portugal and Lisbon
+The workshops and conference will take place in two diverging buildings at Lusófona University, but within minutes of each other.
+More specifically, the **workshops** will take place at [Biblioteca Vitor de Sá](https://goo.gl/maps/8QbwXLwMi63SzKoG9), and the
+**conference itself** will take place at the [Lusófona University's main campus](https://goo.gl/maps/B4XA6SxohPdAhnDF8), as shown in
+the following map:
 
-Portugal is in the Iberian Peninsula, bordering Spain and the Atlantic Ocean, and is the westernmost country in mainland Europe. Portugal is one of the oldest nations in Europe, tracing its history back to the 12th century when it officially became a country. Lisbon itself is a true melting pot of diversity and multicultural influences rooted in Roman and Celtic traditions, and shaped by its Moorish heritage, as well as its African and South American ties making it one of the most unique cities in Europe.
+<figure markdown>
+  ![Venue map](assets/img/venuemap.png)
+  <figcaption>Venue map: Biblioteca Vitor de Sá (workshops) and main campus (conference).</figcaption>
+</figure>
 
-Portugal is also known for its great weather and beaches, where in the Spring and Summer temperatures can reach 35C (95F), making it a nice, comfortable location for an academic conference. Furthermore, Lisbon is close to a wide range of beaches, including Costa da Caparica and Carcavelos, a mere 20-minute drive from the conference venue, allowing attendees to take advantage of the nice weather.
+Conference talks will take place at [Lusófona University's main campus](https://goo.gl/maps/B4XA6SxohPdAhnDF8) in Auditoriums 1 (Agostinho da Silva) and 2 (Fernando Lopes).
+It is easy to get lost within the campus, so on conference days signs and directions will be set to facilitate navigation to the different locations, and volunteers will be
+spread throughout the area to guide attendees. The campus map, highlighting the auditoriums, is shown below:
 
-Getting to Lisbon
-Lisbon is a tourist-friendly city, with many flights arriving daily. From the US there are direct flights from Boston, San Francisco, New York, and Chicago, while Canada has direct flights from Toronto, Vancouver, and Montreal. In Europe, most European cities have daily flights to Portugal, including cheap options such as Ryanair and Easyjet. Portugal also has its own national airline company (TAP), which connects South/North American, African, and Asian countries, while the Middle East is connected through popular airlines such as Turkish Airlines and Emirates. 
+<figure markdown>
+  ![Venue map](assets/img/campusmap.png)
+  <figcaption>Main campus map. The conference will take place in Auditoriums 1 and 2.</figcaption>
+</figure>
 
 ## Getting to the Conference
 
@@ -47,7 +57,49 @@ Lisbon is a tourist-friendly city, with many flights arriving daily. From the US
   <figcaption>Distance from Airport to Conference Venue (by car).</figcaption>
 </figure>
 
-Lisbon has the advantage of having a very central airport, making it very easy for anyone arriving in Lisbon to easily get to their accommodations or anywhere around the city. Directly from the airport anyone can arrive at the conference venue in under 8 minutes by car (or Taxi) or take advantage of the extensive mass-transit system available, i.e., subway network available (Red and Green/Yellow line). Taxi services tend to run 24 hours a day and are quite affordable from the airport (≅ 10€ / 11$), while subway service runs from 6:30 AM to 1:00 AM every day. 
+Lisbon has the advantage of having a very central airport, making it very easy for anyone arriving in Lisbon to easily get to their accommodations or anywhere around the city. Directly from the airport anyone can arrive at the conference venue in under 8 minutes by car (or Taxi) or take advantage of the extensive mass-transit system available, i.e., subway network available (Red and Green/Yellow line). Taxi services tend to run 24 hours a day and are quite affordable from the airport (≅ 10€ / 11$), while subway service runs from 6:30 AM to 1:00 AM every day.
+
+### Getting there by subway (recommended)
+
+The conference venue is located near the [Campo Grande station](https://goo.gl/maps/8MVp1ccuSCQhnPYC9) (7 min. walk).
+
+### Getting there by bus
+
+The following buses have one or more stops near the conference venue:
+
+- **36** Cais do Sodré > Odivelas (B.º Dr. Lima Pimentel) > Cais do Sodré
+- **83** Amoreiras > Portela - R. Mouzinho Albuquerque > Amoreiras
+- **701** Campo Grande (Metro) > Campo Ourique (Prazeres) > Campo Grande (Metro)
+- **706** Estação Sta. Apolónia > Cais Sodré > Estação Sta. Apolónia
+- **735** Cais do Sodré > Hospital Sta. Maria > Cais do Sodré
+- **738** Qta. Barros > Alto Sto. Amaro > Qta. Barros
+- **745** Terreiro do Paço > Prior Velho > Terreiro do Paço
+- **747** Campo Grande (Metro) > Pontinha (Metro) > Campo Grande (Metro)
+- **750** Estação Oriente (Interface) > Algés > Estação Oriente (Interface)
+- **755** Poço Bispo > Sete Rios > Poço Bispo
+- **767** Campo Mártires > Estação da Damaia > Campo Mártires
+- **777** Campo Grande (Metro) > Ameixoeira (Metro) > Campo Grande (Metro)
+- **778** Campo Grande (Metro) > Paço Lumiar > Campo Grande Grande (Metro)
+- **796** / **798** Campo Grande (Metro) > Galinheiras > Campo Grande (Metro)
+
+### Getting there by car (not recommended)
+
+#### From the north:
+
+- A1 > 2ª Circular > Campo Grande
+
+#### From the south
+
+- A2 > Ponte 25 de Abril > Eixo norte Sul > Campo Grande
+- A2 > Ponte Vasco da Gama > 2ª Circular > Campo Grande
+
+#### From the west
+
+- A8 > Calçada de Carriche > Campo Grande
+
+#### From Cascais
+
+- A5 > 2ª Circular > Campo Grande
 
 ## Hotel recommendations
 
@@ -69,7 +121,7 @@ Entrecampos, Campo Pequeno, Saldanha or Marquês de Pombal (from closest to
 farthest) it is generally okay, as there are subway lines that go directly to
 Campo Grande station, close to the conference site at Lusófona University. In
 any case, prefer hotels near subway stations with the yellow or green lines, as
-these go straight to Campo Grande station.
+these go straight to [Campo Grande station](https://goo.gl/maps/8MVp1ccuSCQhnPYC9).
 
 ## Conference Dinner
 
@@ -120,3 +172,12 @@ staples through mildly inventive paces.
   ![1300 Taberna](assets/img/1300_5.webp)
   <figcaption>1300 Taberna</figcaption>
 </figure>
+
+## Portugal and Lisbon
+
+Portugal is in the Iberian Peninsula, bordering Spain and the Atlantic Ocean, and is the westernmost country in mainland Europe. Portugal is one of the oldest nations in Europe, tracing its history back to the 12th century when it officially became a country. Lisbon itself is a true melting pot of diversity and multicultural influences rooted in Roman and Celtic traditions, and shaped by its Moorish heritage, as well as its African and South American ties making it one of the most unique cities in Europe.
+
+Portugal is also known for its great weather and beaches, where in the Spring and Summer temperatures can reach 35C (95F), making it a nice, comfortable location for an academic conference. Furthermore, Lisbon is close to a wide range of beaches, including Costa da Caparica and Carcavelos, a mere 20-minute drive from the conference venue, allowing attendees to take advantage of the nice weather.
+
+Getting to Lisbon
+Lisbon is a tourist-friendly city, with many flights arriving daily. From the US there are direct flights from Boston, San Francisco, New York, and Chicago, while Canada has direct flights from Toronto, Vancouver, and Montreal. In Europe, most European cities have daily flights to Portugal, including cheap options such as Ryanair and Easyjet. Portugal also has its own national airline company (TAP), which connects South/North American, African, and Asian countries, while the Middle East is connected through popular airlines such as Turkish Airlines and Emirates. 
