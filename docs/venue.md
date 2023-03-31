@@ -59,11 +59,11 @@ spread throughout the area to guide attendees. The campus map, highlighting the 
 
 Lisbon has the advantage of having a very central airport, making it very easy for anyone arriving in Lisbon to easily get to their accommodations or anywhere around the city. Directly from the airport anyone can arrive at the conference venue in under 8 minutes by car (or Taxi) or take advantage of the extensive mass-transit system available, i.e., subway network available (Red and Green/Yellow line). Taxi services tend to run 24 hours a day and are quite affordable from the airport (≅ 10€ / 11$), while subway service runs from 6:30 AM to 1:00 AM every day.
 
-### Getting there by subway (recommended)
+### By subway (recommended)
 
 The conference venue is located near the [Campo Grande station](https://goo.gl/maps/8MVp1ccuSCQhnPYC9) (7 min. walk).
 
-### Getting there by bus
+### By bus
 
 The following buses have one or more stops near the conference venue:
 
@@ -82,9 +82,9 @@ The following buses have one or more stops near the conference venue:
 - **778** Campo Grande (Metro) > Paço Lumiar > Campo Grande Grande (Metro)
 - **796** / **798** Campo Grande (Metro) > Galinheiras > Campo Grande (Metro)
 
-### Getting there by car (not recommended)
+### By car (not recommended)
 
-#### From the north:
+#### From the north
 
 - A1 > 2ª Circular > Campo Grande
 
