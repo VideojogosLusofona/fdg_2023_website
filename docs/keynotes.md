@@ -57,7 +57,7 @@
 
 !!! tip "Rémy Devaux"
 
-    ![Rémy Devaux](assets/img/keynote_remy.png){ align=left }
+    ![Rémy Devaux](assets/img/keynote_remy.jpg){ align=left }
 
     **Rémy Devaux** Solo creator of small games since 2016, and developer of their 
 	own game engine SUGAR since 2018. In 2021 they founded PUNKCAKE Délicieux along with 
