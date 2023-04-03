@@ -2,9 +2,9 @@
 
 ## Technical Game Development, Novel Controllers
 
-- [ScriptButler serves an Empirical Study of PuzzleScript: Analyzing the Expressive Power of a Game DSL through Source Code Analysis by Clement Julia, and Riemer van Rozen](http://fdg2023.org/procs/fdg2023-30.pdf)
-- [Automated Generation of Map Pieces for Snappable Meshes by Diogo de Andrade, and Nuno Fachada](http://fdg2023.org/procs/fdg2023-46.pdf)
-- [Modulith: A Game Engine Made for Modding by Daniel Götz, and Sebastian von Mammen](http://fdg2023.org/procs/fdg2023-49.pdf)
+- [ScriptButler serves an Empirical Study of PuzzleScript: Analyzing the Expressive Power of a Game DSL through Source Code Analysis](http://fdg2023.org/procs/fdg2023-30.pdf) by Clement Julia, and Riemer van Rozen
+- [Automated Generation of Map Pieces for Snappable Meshes](http://fdg2023.org/procs/fdg2023-46.pdf) by Diogo de Andrade, and Nuno Fachada
+- [Modulith: A Game Engine Made for Modding](http://fdg2023.org/procs/fdg2023-49.pdf) by Daniel Götz, and Sebastian von Mammen
 
 ## Game Design, Studio Practices, Novel Mechanics, Novel Experiences
 
