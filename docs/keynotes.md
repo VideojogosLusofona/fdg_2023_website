@@ -41,6 +41,7 @@
     strides in a burgeoning storytelling career outside of games, with releases
     such as the cult hit comic Sherlock Holmes Hunts the Moth Man.
 
+<!--
 !!! tip "Meghna Jayanth"
 
     ![Meghna Jayanth](assets/img/keynote_meghna.jpg){ align=left }
@@ -52,6 +53,19 @@
     War of Mine and Sunless Sea. Her latest announced title is Thirsty Suitors,
     a fantastical game of battling your exes, disappointing your parents and
     finding yourself, with Outerloop Games.
+-->
+
+!!! tip "Rémy Devaux"
+
+    ![Rémy Devaux](assets/img/keynote_remy.png){ align=left }
+
+    **Rémy Devaux** Solo creator of small games since 2016, and developer of their 
+	own game engine SUGAR since 2018. In 2021 they founded PUNKCAKE Délicieux along with 
+	fellow Pico-8 enjoyer Benjamin Soulé and chiptune extraordinaire Pentadrangle. The studio's 
+	goal is to make a new game every month, constantly exploring new ideas while also delivering 
+	well-crafted experiences. Remy makes some of the games but also does engine upkeep and 
+	marketing for all the games.
+
 
 !!! tip "Holly Nielsen"
 
