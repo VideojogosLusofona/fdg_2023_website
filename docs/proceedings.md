@@ -74,7 +74,7 @@
 - [Record, Review, Edit, Apply: A Motion Data Pipeline for Virtual Reality Development & Design by Sarah Hofmann, Cem Özdemir, and Sebastian von Mammen](http://fdg2023.org/procs/fdg2023-66.pdf)
 - [Leveraging Game Design Activities for Middle Grades AI Education in Rural Communities by Jessica Vandenberg, Wookhee Min, Veronica Catete, Danielle Boulden, and Bradford Mott](http://fdg2023.org/procs/fdg2023-68.pdf)
 - [Peak-end rule in narrative videogames: analysis of player's perceptions on social media about "The Last of Us Part II" and "God of War" by Dalila Martins, Ana Patrícia Oliveira, and Nelson Zagalo](http://fdg2023.org/procs/fdg2023-70.pdf)
-- [Modifying a Game to Study the Impact of an Hostile Environments on Foraging Behavior by Cania Antariksa, C&#233, line Besse, Thomas De Bruijn, Brandon Kroes, Lennard Schaap, Elze De Vink, Judith Schomaker, Marcello A. Gómez-Maureira](http://fdg2023.org/procs/fdg2023-74.pdf)
+- [Modifying a Game to Study the Impact of an Hostile Environments on Foraging Behavior by Cania Antariksa, Céline Besse, Thomas De Bruijn, Brandon Kroes, Lennard Schaap, Elze De Vink, Judith Schomaker, Marcello A. Gómez-Maureira](http://fdg2023.org/procs/fdg2023-74.pdf)
 - [Towards an Agency-centered Ontology of Game Mechanics by Kyle Mitchell, and Joshua Mccoy](http://fdg2023.org/procs/fdg2023-76.pdf)
 - [Towards a History of Finnish and Swedish Game Industry Platforms by Petri Lankoski, and Mikolaj Dymek](http://fdg2023.org/procs/fdg2023-89.pdf)
 
@@ -82,10 +82,10 @@
 
 - [Playing a Flawless Character? Exploring Differences Between Experts and Novices in Tabletop Role-Playing Games and Potential Benefits for Well-Being by Susanne Poeller, Martin Dechant, and Regan L. Mandryk](http://fdg2023.org/procs/fdg2023-55.pdf)
 - [A Framework for Analogue Game-modification Learning - Guidelines to Lower Barriers for Games in Education by Christian Paller](http://fdg2023.org/procs/fdg2023-57.pdf)
-- [&#8220;Show your cards!&#8221;: What do creators need for the game design process? by Lori Kougioumtzian, Christos Lougiakis, and Akrivi Katifori](http://fdg2023.org/procs/fdg2023-69.pdf)
+- ["Show your cards!": What do creators need for the game design process? by Lori Kougioumtzian, Christos Lougiakis, and Akrivi Katifori](http://fdg2023.org/procs/fdg2023-69.pdf)
 - [Computer Aided Content Generation &#x2013; A Gloomhaven Case Study by Marcus Gerhold, and Kristian Tijben](http://fdg2023.org/procs/fdg2023-71.pdf)
 - [Historical reality vs anachronistic fantasy: The history educators' perspective on tabletop RPGs by Dimitra Petousi, Akrivi Katifori, Maria Roussou, Yannis Ioannidis, and Pantelis Sakellariadis](http://fdg2023.org/procs/fdg2023-72.pdf)
-- [?It Has to Ignite Their Creativity??: Opportunities for Generative Tools for Game Masters by Kevin Tang, Terra Mae Gasque, Rachel Donley, and Anne Sullivan](http://fdg2023.org/procs/fdg2023-79.pdf)
+- ["It Has to Ignite Their Creativity": Opportunities for Generative Tools for Game Masters by Kevin Tang, Terra Mae Gasque, Rachel Donley, and Anne Sullivan](http://fdg2023.org/procs/fdg2023-79.pdf)
 
 ## Workshop on Procedural Content Generation
 
