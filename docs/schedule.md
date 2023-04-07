@@ -14,6 +14,8 @@ hide:
 
 {% endwith %}
 
+---
+
 # Best Papers
 
 ## The Constraints of Cozy Games: Boyfriend Dungeon and Consent in Queer Play by *Anne Sullivan, Mel Stanfill and Anastasia Salter.*
