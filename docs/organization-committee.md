@@ -214,6 +214,7 @@ PC members with Exceptional Service are marked with &#9734;
 - Riccardo Fassone, <i>Università di Torino</i>&#9734;
 - Rilla Khaled, <i>Concordia University</i>
 - Rodrigo de Moura Canaan, <i>New York University</i>
+- Roger Crawfis, <i>Ohio State University</i>
 - Rossana Damiano, <i>Dipartimento di Informatica, Università di Torino</i>
 - Ruck Thawonmas, <i>Ritsumeikan University</i>
 - Rui Antunes, <i>Universidade Lusófona</i>
